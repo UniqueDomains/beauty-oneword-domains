@@ -1,0 +1,2 @@
+# beauty-oneword-domains
+List of beauty one word domain names with availability, expiration date, attractiveness, demand score.
