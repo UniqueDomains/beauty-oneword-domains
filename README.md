@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BEAUTY one-word domains still available to buy.
 
-This dataset contains 4,186 .BEAUTY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,223 .BEAUTY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BEAUTY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=beauty-oneword-domains&utm_content=description.top) (3,919) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,16 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/beauty-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.csv"><b>⬇️ CSV (4.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.json"><b>⬇️ JSON (4.19K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.csv"><b>⬇️ CSV (4.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.json"><b>⬇️ JSON (4.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=beauty-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.92K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.beauty        | available | 70       | 38%    | 3      |           |         |         |
+| aaron.beauty      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.beauty  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.beauty      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.beauty  | available | 58       | 10%    | 9      |           |         |         |
@@ -30,6 +32,7 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 | abatic.beauty     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.beauty    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.beauty   | available | 50       | 1%     | 8      |           |         |         |
+| abc.beauty        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.beauty  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.beauty  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.beauty | available | 56       | 1%     | 10     |           |         |         |
@@ -43,19 +46,16 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 | abhorrent.beauty  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.beauty    | available | 106      | 5%     | 7      |           |         |         |
 | abient.beauty     | available | 54       | 1%     | 6      |           |         |         |
+| ability.beauty    | available | 92       | 18%    | 7      |           |         |         |
 | abit.beauty       | available | 66       | 16%    | 5      |           |         |         |
 | abject.beauty     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.beauty     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.beauty  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.beauty     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.beauty  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.beauty    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.beauty   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/beauty-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.csv"><b>⬇️ CSV (4.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.json"><b>⬇️ JSON (4.19K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.csv"><b>⬇️ CSV (4.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/beauty-oneword-domains/blob/main/beauty.json"><b>⬇️ JSON (4.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=beauty-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.92K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
