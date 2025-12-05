@@ -21,11 +21,11 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.beauty        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.beauty        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.beauty      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.beauty  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.beauty      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.beauty  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.beauty  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.beauty    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.beauty     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.beauty   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 | abbatial.beauty   | available | 50       | 1%     | 8      |           |         |         |
 | abc.beauty        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.beauty  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.beauty  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.beauty  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.beauty | available | 56       | 1%     | 10     |           |         |         |
 | abducens.beauty   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.beauty   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 | aberdonian.beauty | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.beauty   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.beauty    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.beauty  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.beauty  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.beauty    | available | 106      | 5%     | 7      |           |         |         |
 | abient.beauty     | available | 54       | 1%     | 6      |           |         |         |
 | ability.beauty    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BEAUTY one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
