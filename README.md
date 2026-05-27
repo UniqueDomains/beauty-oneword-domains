@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .beauty one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,049 domains · **Median ask:** $208.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/beauty`  
 **Best for:** founders, investors, studios
 
@@ -71,13 +71,13 @@ print(df.head())
 | harmony.beauty      | resell    | —         | —             | 83             | 39     | 7      | Dynadot LLC     |
 | Chanel.beauty       | premium   | $2,800    | $2,800        | 80             | 77     | 6      | namecheap       |
 | blocks.beauty       | available | $1.99     | —             | 53             | 29     | 6      | name.com        |
-| popup.beauty        | resell    | —         | —             | 84             | 28     | 6      | Go Daddy, LLC   |
+| gods.beauty         | resell    | —         | —             | 72             | 29     | 4      | Spaceship, Inc. |
 | online.beauty       | premium   | $2,500    | —             | 70             | 62     | 7      | name.com        |
 | forms.beauty        | available | $1.99     | —             | 54             | 28     | 5      | name.com        |
-| goods.beauty        | resell    | —         | —             | 74             | 27     | 5      | Spaceship, Inc. |
+| popup.beauty        | resell    | —         | —             | 84             | 28     | 6      | Go Daddy, LLC   |
 | travelers.beauty    | premium   | $2,500    | —             | 58             | 61     | 9      | name.com        |
 | systems.beauty      | available | $1.99     | —             | 46             | 27     | 7      | name.com        |
-| gods.beauty         | resell    | —         | —             | 72             | 27     | 4      | Spaceship, Inc. |
+| goods.beauty        | resell    | —         | —             | 74             | 27     | 5      | Spaceship, Inc. |
 | regions.beauty      | premium   | $2,500    | —             | 64             | 59     | 7      | name.com        |
 | has.beauty          | available | $1.99     | —             | 60             | 26     | 3      | name.com        |
 | shops.beauty        | resell    | —         | —             | 64             | 24     | 5      | Dynadot LLC     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
