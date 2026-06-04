@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .beauty one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,049 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,049 domains · **Median ask:** $208.37 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,049 domains · **Median ask:** $260.46 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/beauty`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| matcha.beauty       | available | $1.99     | —             | 86             | 39     | 6      | name.com        |
-| coins.beauty        | resell    | —         | —             | 56             | 41     | 5      | Go Daddy, LLC   |
-| hotels.beauty       | premium   | $812.50   | —             | 64             | 82     | 6      | name.com        |
-| neuroscience.beauty | available | $1.99     | —             | 80             | 37     | 12     | name.com        |
-| harmony.beauty      | resell    | —         | —             | 83             | 39     | 7      | Dynadot LLC     |
-| Chanel.beauty       | premium   | $2,800    | $2,800        | 80             | 77     | 6      | namecheap       |
-| blocks.beauty       | available | $1.99     | —             | 53             | 29     | 6      | name.com        |
-| gods.beauty         | resell    | —         | —             | 72             | 29     | 4      | Spaceship, Inc. |
-| online.beauty       | premium   | $2,500    | —             | 70             | 62     | 7      | name.com        |
-| forms.beauty        | available | $1.99     | —             | 54             | 28     | 5      | name.com        |
-| popup.beauty        | resell    | —         | —             | 84             | 28     | 6      | Go Daddy, LLC   |
-| travelers.beauty    | premium   | $2,500    | —             | 58             | 61     | 9      | name.com        |
-| systems.beauty      | available | $1.99     | —             | 46             | 27     | 7      | name.com        |
-| goods.beauty        | resell    | —         | —             | 74             | 27     | 5      | Spaceship, Inc. |
-| regions.beauty      | premium   | $2,500    | —             | 64             | 59     | 7      | name.com        |
-| has.beauty          | available | $1.99     | —             | 60             | 26     | 3      | name.com        |
-| shops.beauty        | resell    | —         | —             | 64             | 24     | 5      | Dynadot LLC     |
-| cars.beauty         | premium   | $2,500    | —             | 66             | 47     | 4      | name.com        |
-| rekt.beauty         | available | $1.99     | —             | 40             | 24     | 4      | name.com        |
-| stores.beauty       | resell    | —         | —             | 62             | 20     | 6      | Namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| advisory.beauty   | available | $19.98    | —             | 80             | 17     | 8      | namecheap       |
+| preventive.beauty | available | $1.99     | $20.99        | 84             | 7      | 10     | name.com        |
+| similar.beauty    | premium   | —         | —             | 86             | 12     | 7      | —               |
+| awkward.beauty    | available | $1.65     | $15.75        | 94             | 12     | 7      | namesilo        |
+| android.beauty    | premium   | $2,500    | —             | 88             | 95     | 7      | name.com        |
+| struggle.beauty   | available | $1.65     | $15.75        | 82             | 10     | 8      | namesilo        |
+| letloose.beauty   | available | $1.65     | $15.75        | 82             | 4      | 9      | namesilo        |
+| occasion.beauty   | available | $1.65     | $15.75        | 90             | 9      | 8      | namesilo        |
+| duplicate.beauty  | available | $1.99     | $20.99        | 100            | 7      | 9      | name.com        |
+| time.beauty       | premium   | $2,500    | —             | 128            | 46     | 4      | name.com        |
+| lookup.beauty     | premium   | —         | —             | 82             | 29     | 7      | —               |
+| gandhi.beauty     | available | $1.65     | $15.75        | 92             | 13     | 6      | namesilo        |
+| Walmart.beauty    | premium   | $2,500    | —             | 92             | 94     | 7      | name.com        |
+| find.beauty       | premium   | $10,000   | —             | 110            | 50     | 4      | name.com        |
+| cap.beauty        | resell    | —         | —             | 84             | 30     | 3      | Spaceship, Inc. |
+| condense.beauty   | available | $1.65     | $15.75        | 84             | 7      | 8      | namesilo        |
+| gone.beauty       | available | $1.99     | —             | 80             | 16     | 4      | name.com        |
+| monday.beauty     | premium   | $812.50   | —             | 86             | 33     | 6      | name.com        |
+| builtin.beauty    | available | $1.65     | $15.75        | 91             | 9      | 8      | namesilo        |
+| expand.beauty     | available | $1.99     | $20.99        | 82             | 20     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
