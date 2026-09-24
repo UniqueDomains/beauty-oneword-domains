@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .beauty one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,213 domains · **Median ask:** $103.15 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/beauty`
 **Best for:** founders, investors, studios
 
@@ -65,10 +65,9 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | time.beauty     | premium   | $2,500    | —             | high           | medium | 4      | name.com                                     |
-| soft.beauty     | premium   | $2,500    | $2,500        | high           | low    | 4      | name.com                                     |
 | fuck.beauty     | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc.                              |
 | pardon.beauty   | available | $1.65     | $15.75        | high           | low    | 6      | namesilo                                     |
-| gay.beauty      | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
+| most.beauty     | premium   | $2,500    | —             | high           | low    | 4      | name.com                                     |
 | btw.beauty      | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
 | figure.beauty   | resell    | $1.99     | —             | high           | low    | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
 | ace.beauty      | premium   | $832      | $832          | medium         | low    | 3      | namesilo                                     |
@@ -80,9 +79,10 @@ print(df.head())
 | fly.beauty      | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
 | had.beauty      | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
 | ass.beauty      | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.                              |
+| job.beauty      | premium   | $2,500    | —             | high           | low    | 3      | name.com                                     |
 | ham.beauty      | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo                                     |
 | ice.beauty      | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.                              |
-| job.beauty      | premium   | $2,500    | —             | high           | low    | 3      | name.com                                     |
+| map.beauty      | premium   | $2,600    | $15.73        | high           | medium | 3      | namecheap                                    |
 | old.beauty      | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
