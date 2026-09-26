@@ -1,15 +1,14 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-08331441-7ce2-4980-8f66-33d0763613ba,marked.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 982c0943-05c6-49fc-a5ae-6f7ca4a68c03,ally.beauty,premium,2500,,high,high,4,name.com,,,
 1ac6052b-774c-4257-9c6b-78d14eafd85a,gently.beauty,available,1.99,,high,low,6,name.com,,,
-1bd686c7-7d89-4e49-a630-11b201b2177d,married.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+1bd686c7-7d89-4e49-a630-11b201b2177d,married.beauty,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 16:47
 6d7050d0-c331-4baf-ac42-a075b0aff3a8,returning.beauty,available,1.99,,high,low,9,name.com,,,
 654ce4d4-bea1-48d6-b0e8-94c08bbf42a6,utterly.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 d05d351f-7a9b-43fe-8bf9-560541dd2f02,stung.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 ac789c53-5ffb-411b-821c-a99e57d9f81b,mouthy.beauty,available,1.99,,medium,low,6,name.com,,,
 00ddd50b-7e34-47f0-a343-7734f08aa5d9,coast.beauty,premium,2500,,high,low,5,name.com,,,
 7eb35dbd-cf70-4028-bcfb-5022ad4cca20,beetling.beauty,available,1.8,19.98,medium,low,8,namecheap,,,09/08/2026 08:22
-f229e902-475f-43c1-810e-31fcc3d4b778,babylonian.beauty,available,1.8,19.98,high,low,10,namecheap,,,08/08/2026 03:58
+f229e902-475f-43c1-810e-31fcc3d4b778,babylonian.beauty,available,1.8,19.98,medium,low,10,namecheap,,,08/08/2026 03:58
 cc0e5610-7713-4bfc-827a-a002f8ec00fd,azygous.beauty,available,1.8,19.98,medium,low,7,namecheap,,,08/08/2026 03:27
 313c7a8e-a6a4-492c-bddd-27f7a0186389,preference.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 0321c12f-8ad6-4e20-b4b1-4ad9d5b9d5c7,james.beauty,premium,812.5,,high,medium,5,name.com,,,
@@ -27,17 +26,17 @@ af1875d2-70be-4b8f-97b0-5964cbcaa6ee,recipient.beauty,available,1.65,15.75,high,
 bf6d11df-16d1-4e3c-9ebf-3b0c101b205f,atilt.beauty,available,1.8,19.98,medium,low,5,namecheap,,,07/08/2026 13:13
 1a2bad9d-d63e-4545-bb8c-0e2a43dfe069,tow.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 17f0c3c6-ee8c-40cf-ba0b-ec469ae0302c,sufficient.beauty,available,1.65,15.75,high,low,10,namesilo,,,
-d67254c7-8779-4f24-b85b-5ac2e09313a7,legion.beauty,premium,2500,,high,low,6,name.com,,,
+d67254c7-8779-4f24-b85b-5ac2e09313a7,legion.beauty,premium,2500,2500,high,low,6,name.com,,,25/09/2026 13:28
 2f3956e0-4477-498c-98f3-53a464b090ad,alarm.beauty,premium,2500,2500,high,low,5,name.com,,,
 0e2ac7b0-fad4-430c-92ca-d1a567a7b7d2,aflutter.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 dae09be5-1091-4540-8ab5-a8c6372f0a18,amatory.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 0ad3958c-074c-4c29-b24e-c1b6eace3ca7,african.beauty,resell,,,high,low,7,Dynadot Inc,02/03/2021 14:00,02/03/2027 23:59,
-9b5b10c1-2c42-48d2-848d-7720ccfc1799,words.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+9b5b10c1-2c42-48d2-848d-7720ccfc1799,words.beauty,available,1.8,21.98,high,low,5,namecheap,,,25/09/2026 15:51
 9bc07988-a01a-467d-8a29-b3f1b44b3040,aflare.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 168f5c77-2af1-4948-8816-fee6981954fd,motion.beauty,resell,665.69,,high,low,6,Dynadot LLC,16/09/2025 08:27,16/09/2026 23:59,
 57af7f4d-f980-452a-b2e4-1536ab966120,figures.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 23d05f9b-e8e1-46ee-b18a-81bdc8ac49f8,marvel.beauty,premium,2500,,high,low,6,name.com,,,
-f7df9cd9-f2da-4a7f-900a-bb80c980ac1d,humorous.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+9b88cf64-023d-431b-a383-b6f234bbca73,diva.beauty,resell,,,high,low,4,"Spaceship, Inc.",28/05/2026 20:29,28/05/2027 23:59,25/09/2026 09:29
 eced2cdf-ece6-41b2-9258-db3f67eeb006,baptized.beauty,available,1.8,19.98,high,low,8,namecheap,,,08/08/2026 14:55
 d3ffc5f7-9ad5-427b-a862-19cb9d6e1625,lxxvii.beauty,available,1.8,19.98,medium,low,6,namecheap,,,
 dcdc1809-237e-4315-a5fe-7f4530c22910,tune.beauty,available,1.99,,high,low,4,name.com,,,
@@ -61,10 +60,9 @@ a955f5eb-bd0a-409b-9fdb-1685d21cf326,fridge.beauty,available,1.99,,high,low,6,na
 6ca68af6-23b0-4764-b89c-c138142e1b39,table.beauty,available,1.99,,high,low,5,name.com,,,
 2c4b95e4-fe21-42dd-9619-afccff7b8c6a,slope.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 5e998f97-3052-4190-a3ef-fea81173d13e,washington.beauty,premium,812.5,,high,low,10,name.com,,,
-4ebcd8c4-1c02-4bc2-ab67-b1019bc36368,priceless.beauty,premium,2500,,high,medium,9,name.com,,,
+4ebcd8c4-1c02-4bc2-ab67-b1019bc36368,priceless.beauty,premium,2660,2660,high,medium,9,namesilo,,,25/09/2026 11:03
 2c054a35-ee51-411e-a261-88eb8b66c248,supermarket.beauty,available,1.65,15.75,high,low,11,namesilo,,,
-9b3fae68-7bf3-46be-8c3c-60fe31a89dde,sound.beauty,premium,812.5,,high,low,5,name.com,,,
-ce067c37-541a-48f5-b3d5-526a122a09e1,scientist.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+9b3fae68-7bf3-46be-8c3c-60fe31a89dde,sound.beauty,premium,832,832,high,medium,5,namesilo,,,25/09/2026 13:31
 c64c762d-d0e1-4b9d-8f1a-a0e7c5ef1e6d,nobody.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 66dc58c2-46e8-49fc-bbf3-a1ce23dd1040,chorus.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 30bb2596-a3bf-48b8-81ab-900ed40c0cba,courses.beauty,resell,,,high,low,7,"Porkbun, LLC",02/03/2021 20:17,02/03/2026 23:59,
@@ -75,23 +73,22 @@ b46919bb-1e30-47aa-8b1b-843332d30c87,primitive.beauty,available,1.65,15.75,high,
 5800f733-2e0d-468a-8218-ef3307a264dd,employer.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 6299d8fb-3c2f-4a52-a7d5-f2a3f49a0e8e,discomfort.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 d060ebaf-e8c8-40f5-9932-7834e4ba15b1,buying.beauty,available,1.8,21.98,high,low,6,namecheap,,,24/09/2026 08:30
-627aac22-e769-4d60-b015-329ebe5e1e3d,poisoning.beauty,available,1.99,,high,low,9,name.com,,,
+627aac22-e769-4d60-b015-329ebe5e1e3d,poisoning.beauty,available,1.99,,medium,low,9,name.com,,,
 553f85ea-725b-4270-a2d0-ad786584661c,awarding.beauty,available,1.65,15.75,high,low,8,namesilo,,,
-72722af9-59f8-4737-b25e-f1b1c6891d43,squall.beauty,available,1.99,,high,low,6,name.com,,,
+72722af9-59f8-4737-b25e-f1b1c6891d43,squall.beauty,available,1.99,,medium,low,6,name.com,,,
 61be7677-288c-4220-bc2c-6857fae644fc,advocate.beauty,available,1.65,15.75,high,low,8,namesilo,,,
-fb1040b9-dfe4-41e1-b023-2270dd5c03b4,massive.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+fb1040b9-dfe4-41e1-b023-2270dd5c03b4,massive.beauty,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 17:08
 e26ec3bc-065b-4d03-bacf-a99587fcbf42,besides.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-edd2129a-e845-4c31-90da-51ebc70d98a8,prick.beauty,available,1.8,19.98,high,low,5,namecheap,,,08/08/2026 23:38
+edd2129a-e845-4c31-90da-51ebc70d98a8,prick.beauty,available,1.8,19.98,medium,low,5,namecheap,,,08/08/2026 23:38
 d4600ed8-8127-49d8-8f6b-7000abb44fe9,tongue.beauty,available,,,high,low,6,,,,
 6bab5263-3b19-4774-aa24-88e361de445b,abactinal.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 895a79fb-96e2-4ff6-81d3-cc302286aea7,acropetal.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 4a22c2db-350d-48e8-8796-2e88f1862957,allegiant.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-6ec7a1db-e042-4d8c-80dc-66822d5ce694,height.beauty,available,1.65,15.75,high,low,6,namesilo,,,
+6ec7a1db-e042-4d8c-80dc-66822d5ce694,height.beauty,available,1.8,21.98,high,low,6,namecheap,,,25/09/2026 19:39
 69a8212a-40bc-4c5f-b65c-c807966fd31d,trillionaire.beauty,available,,,high,low,12,,,,
 834a2a5a-e68a-4aa4-bfa1-646706b1e3a2,icon.beauty,premium,2500,,high,medium,4,name.com,,,
 082da6df-7959-4f29-ac0a-8d1abe09004a,abscessed.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
-95692111-c1b3-4515-96ad-3b87ca84c79d,mist.beauty,available,1.65,15.75,high,low,4,namesilo,,,
-70e15566-78e6-46e5-8502-383a41b9608c,refreshed.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+70e15566-78e6-46e5-8502-383a41b9608c,refreshed.beauty,available,1.99,17.29,high,low,9,namesilo,,,25/09/2026 11:08
 b34138ca-22b2-406c-a5a3-d0423660db84,parenting.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 5fd694fd-9041-4a2f-9664-228248367353,unplug.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 afab7a59-c249-45ca-8df1-d37ff4608cd4,flush.beauty,available,1.65,15.75,high,low,5,namesilo,,,
@@ -112,7 +109,6 @@ f38ff664-eff5-4c81-b1c8-5f9792410a62,similar.beauty,available,1.65,15.75,high,lo
 e80abb3a-8855-42ba-b91a-905391c54415,illustrated.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 4f09fd8d-82d4-44b9-ac08-3abf8902a11e,sextet.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 85bd483c-0b26-45d0-80e6-fc4772c6c8a5,literally.beauty,available,1.99,,high,low,9,name.com,,,
-c9fcdae6-1643-4e7f-825e-196c90d89668,motivation.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 319009e1-24bf-42c6-a4f3-d2cf0ae1e3e2,android.beauty,premium,2500,,high,high,7,name.com,,,
 df7e952a-241c-4ebb-b34a-f2a02a0c925c,terzetto.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 4efbf5b0-0247-479f-8ac2-a892e3f15637,preserved.beauty,available,1.65,15.75,high,low,9,namesilo,,,
@@ -120,15 +116,14 @@ d9a7e86f-1450-4606-a78b-832c80c391ba,struggle.beauty,available,1.65,15.75,high,l
 df81ac53-8d32-4fe0-940b-d77b1f372459,allelic.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 5788fb03-fcdb-4266-95d9-bb13d282a10b,occasion.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 3189820f-b806-41ed-a607-201120dcb394,arriving.beauty,available,1.99,,medium,low,8,name.com,,,
-f3263db7-00a4-4dcb-b67e-82faff5e136f,time.beauty,premium,2600,2600,high,medium,4,namecheap,,,24/09/2026 17:46
 4046bdfd-ddb4-4daf-a4e1-267fa0fb12e9,agonising.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 547ab250-8842-44b8-b144-11156fb319b1,lookup.beauty,available,,,high,low,7,,,,
-ec2afb26-7055-47ef-af35-018224298db5,obvious.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+ec2afb26-7055-47ef-af35-018224298db5,obvious.beauty,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 23:50
 003ee7e1-61e5-41cc-bfb9-1937f77a9daf,gandhi.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 83c367a3-71ee-4af3-8da0-c5a4fdc97e76,successful.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 33b6538e-c189-4c82-9356-82811329a557,aligning.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 838924bb-adb5-4400-bef6-1ce2e57b2552,walmart.beauty,premium,2500,,high,high,7,name.com,,,
-415fe4ac-5c25-4500-bdb0-bb4935807b9d,kookie.beauty,available,1.8,19.98,high,low,6,namecheap,,,06/08/2026 21:09
+415fe4ac-5c25-4500-bdb0-bb4935807b9d,kookie.beauty,available,1.8,19.98,medium,low,6,namecheap,,,06/08/2026 21:09
 dfb2bd5e-f3e7-476f-b285-70897bb29c8e,ammoniac.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 69f24547-5083-4efb-ad74-9ddf3756aef5,had.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 62f012f5-96e6-4ce1-b29d-ae7b276af8c1,want.beauty,premium,2500,,high,low,4,name.com,,,
@@ -140,13 +135,12 @@ bd39d523-6b63-4886-9342-04011f0c36d0,condense.beauty,available,1.65,15.75,high,l
 be005a75-9b96-48e3-9346-a7a55467c973,hawaii.beauty,premium,812.5,,high,low,6,name.com,,,
 c1bf7efd-e5ee-41cc-b72c-0e20d1adc8a2,patrician.beauty,available,1.8,19.98,medium,low,9,namecheap,,,06/08/2026 19:34
 8148db11-f8dd-4329-b56f-d0c4653a99b0,monday.beauty,premium,812.5,,high,low,6,name.com,,,
-20593865-0bbc-4f82-b50f-7b0633f25c9c,stillborn.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+20593865-0bbc-4f82-b50f-7b0633f25c9c,stillborn.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 2bc100ff-1df2-474c-82dd-6e98713a8fd4,complement.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 d4b5e3ff-2d31-4210-bb31-e335a5f9f7cc,bridget.beauty,available,1.99,,high,low,7,name.com,,,
 9e510589-defb-4d5d-9065-d2a6e0348488,pardon.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 bbffe2de-e08c-4124-81dc-901cf2da0932,remember.beauty,available,1.99,,high,low,8,name.com,,,
 fa1a1b5d-1114-4716-897f-205747783e23,sniff.beauty,available,1.65,15.75,high,low,5,namesilo,,,
-8d8623ad-c1c7-4821-9bec-61173a6e3f06,increasing.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 7f245b02-8607-41ea-bd59-d7723877bcca,specific.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 d8aedf0a-90ea-4d6e-8dc6-ec5d3409dc94,disparity.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 67d87a90-a72b-4a3e-a4e9-5da06e356ab9,eid.beauty,available,1.65,15.75,high,low,3,namesilo,,,
@@ -155,7 +149,6 @@ c8ce4556-76aa-427b-93be-babdb80a8c67,pig.beauty,premium,812.5,,high,low,3,name.c
 4a37c30d-1e37-4955-b846-405de3f16c94,dingy.beauty,available,1.8,19.98,medium,low,5,namecheap,,,09/08/2026 09:20
 f75fc748-56dd-4a28-a75b-3bc365d6579e,whisking.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 b1f48e61-0bdc-4e50-b27b-bc72a129beef,feeling.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-5fbf9567-9671-4575-806f-cfc26236adf7,calculation.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 f4b05ddd-709e-412b-9f6a-54b269f10e00,enjoy.beauty,resell,,,high,medium,5,Cosmotown Inc,11/11/2025 20:29,11/11/2026 23:59,
 ab0151b3-0645-4cf3-8368-7253392f0a47,exclamation.beauty,available,1.99,,high,low,11,name.com,,,
 920df79d-fab0-4ce7-bc6b-3a6977a06a3e,may.beauty,premium,812.5,,high,low,3,name.com,,,
@@ -168,17 +161,17 @@ e3f50514-18ab-418f-9d89-81ee56837f6d,glory.beauty,resell,,,high,low,5,"Spaceship
 dbabba82-fb0f-4315-b1b4-4ff61b6a671c,seized.beauty,available,1.99,,medium,low,6,name.com,,,
 9b0d9fd2-c74d-441f-b999-8b6912d4af6f,flack.beauty,available,1.8,19.98,medium,low,5,namecheap,,,
 c287abf9-7027-48aa-b2e6-ea23d1a22f51,confuse.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-9d9b4cd1-a036-4aa7-ac71-854be6904dfc,unbeatable.beauty,available,1.65,15.75,high,low,10,namesilo,,,
+9d9b4cd1-a036-4aa7-ac71-854be6904dfc,unbeatable.beauty,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 11:12
 bf768914-540d-4c04-bfaf-292a097e80de,substitution.beauty,available,1.99,,high,low,12,name.com,,,
 d247373b-e156-4337-b5e6-b60667e19372,snippet.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 115ea0ea-e5ef-4356-bc06-1fa26ab6d9f9,requirement.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 dfcbe097-964a-4f93-96c4-53d0ea437e78,examine.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 641c1edc-d9a1-4525-8383-70f498943b01,budget.beauty,premium,2500,,high,low,6,name.com,,,
 1e59f4b0-dc46-4d50-a311-a4d62d9871dc,smith.beauty,premium,812.5,,high,medium,5,name.com,,,
-f8c152a2-e3d5-405d-9e98-e6aafd536bae,vague.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+f8c152a2-e3d5-405d-9e98-e6aafd536bae,vague.beauty,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 23:34
 c85dff09-7044-4052-a050-fef37667fffa,genuinely.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 b7134ba6-4d6f-49b9-ae55-0bcdf991c9b4,impractical.beauty,available,1.65,15.75,medium,low,11,namesilo,,,
-51e9d996-b2ea-4063-99ae-4e0172aeb52c,trap.beauty,available,1.65,15.75,high,low,4,namesilo,,,
+51e9d996-b2ea-4063-99ae-4e0172aeb52c,trap.beauty,available,1.99,17.29,high,low,4,namesilo,,,25/09/2026 15:44
 25de28df-69a4-4589-97cc-17935c2ccd0f,enrich.beauty,premium,2500,,high,low,6,name.com,,,
 b7802454-07c6-4e43-905a-48a4cf3dce71,cinque.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
 a129bec5-19d5-45fb-8bda-e79e5d2cbc48,grabby.beauty,available,1.8,19.98,medium,low,6,namecheap,,,07/08/2026 21:58
@@ -188,22 +181,23 @@ e2201bb0-e8fc-4cdd-90c6-45e3dece3af3,already.beauty,available,1.99,,high,low,7,n
 3cccfbff-1846-4717-b3c3-d43d669b2518,categorical.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 53caa656-1612-4048-8f5f-b8302df2b95d,covering.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 9b5a5453-9f9d-4cf6-b91c-20fc7c0fb728,wrongful.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
-5a21c339-96da-441e-839f-5bceb9f07e39,most.beauty,premium,2500,,high,low,4,name.com,,,
+5a21c339-96da-441e-839f-5bceb9f07e39,most.beauty,premium,2660,2660,high,low,4,namesilo,,,25/09/2026 21:48
 ba025f97-9bc2-4be2-96d4-feacba580fa0,alacritous.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
-4e69fad3-bac3-4cd9-b3fa-861ce8f84ffd,sugar.beauty,resell,,,high,low,5,"Porkbun, LLC",05/03/2021 12:27,05/03/2027 23:59,
 99d29b72-0d5d-43d1-b280-583be252c2c0,disc.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 8532977b-fe89-41e5-a8d4-a841b2fd1e0f,exhibit.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 3b58000b-6dbd-490c-b632-1898c4299300,advice.beauty,premium,812.5,,high,low,6,name.com,,,
 ef0bb15f-5257-4789-83fa-2e0c889b12f2,maddened.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 6ba0f581-b73a-4e56-9ce5-1f5ef5a734a8,amusing.beauty,available,,,high,low,7,,,,
 a0afae84-db93-4a4c-9a2b-5336fcae74f5,coordinate.beauty,available,1.8,21.98,high,low,10,namecheap,,,08/09/2026 03:35
+92fba243-d3f6-4f82-b4db-834254b36379,embrace.beauty,resell,,,high,low,7,Dynadot Inc,13/08/2026 10:12,13/08/2027 23:59,25/09/2026 09:42
 2e4902d2-bb9c-4323-90f5-6784779726ba,singapore.beauty,available,,,high,low,9,,,,
-e1e53f04-2081-4b04-8305-1fc719cd53a8,huge.beauty,premium,2500,,high,low,4,name.com,,,
 8db3a5cc-4430-40b6-874e-5fbaefa3204f,documentation.beauty,available,1.65,15.75,high,low,13,namesilo,,,
 0a73ad03-8e49-4307-b26b-57ca77a30d94,chips.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 353436e9-e23b-4000-b0cc-ede5de0f4483,chimney.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 055960e9-2894-4ebc-ab6c-608f0445b74c,critique.beauty,available,1.99,,high,low,8,name.com,,,
 1955248e-0284-427e-b117-7c5e52d67635,damascus.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+80df8f0d-3896-472f-934b-0070897eca63,television.beauty,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 22:50
+075148c4-d38c-4932-9367-3f967a4ce173,pocket.beauty,available,1.8,21.98,high,medium,6,namecheap,,,25/09/2026 12:57
 f98fd4ca-2d81-410e-941b-399e2812b578,beating.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 86519a3c-0bbc-401d-a629-e4bd42768434,jacobs.beauty,premium,2500,,high,low,6,name.com,,,
 5becc850-6c74-43b2-a9ae-ce24b70b06b5,revelatory.beauty,available,1.8,19.98,high,low,10,namecheap,,,06/08/2026 00:55
@@ -224,7 +218,6 @@ b94f62d3-d3e0-4fea-addb-c70576d54a44,aquiline.beauty,available,1.8,19.98,medium,
 66c82502-00b7-4236-b5e7-3734f3be8a20,climbable.beauty,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 00:10
 0a929111-d814-48ac-9874-4eb76458c5f1,amnic.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 ef7e1b5c-eac9-4c6d-98b9-670d93183c62,sunroof.beauty,available,1.99,,high,low,7,name.com,,,
-572a7edc-3769-4bbc-a77e-bf2e30e56ebb,invalid.beauty,available,,,high,low,7,,,,
 c52707ac-9977-4b8d-8c27-3fc96ae23489,prominent.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 f3f72c99-deb1-42ad-b48d-7df558f3d4be,experimental.beauty,available,1.65,15.75,high,low,12,namesilo,,,
 e122573e-053e-4946-b3b0-369295fc30c0,verse.beauty,resell,,,high,low,5,"Spaceship, Inc.",15/04/2026 21:15,15/04/2027 23:59,
@@ -235,8 +228,7 @@ b2e5c2c5-2093-4bdf-abd6-459b54f0b788,maze.beauty,available,,,high,low,4,,,,
 370b4f11-be9d-4a02-bf75-f4575d6133d0,provider.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 768ea099-11d5-4c5c-924e-d33b01498b22,savage.beauty,premium,812.5,20.99,high,low,6,name.com,,,08/08/2026 15:36
 116bb4b9-5d5b-4ec6-b62a-809d215f8948,pretoria.beauty,available,1.65,15.75,high,low,8,namesilo,,,
-937e91e7-e1f9-41b0-8019-281a88328471,abenaki.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-992132a9-ff17-4927-866c-68e534404cfe,mild.beauty,available,1.99,,high,low,4,name.com,,,
+937e91e7-e1f9-41b0-8019-281a88328471,abenaki.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 4ede8fec-8ac7-47fb-83a0-45b2a88c501c,verbs.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 eb3d3b06-db9c-47a4-b7b0-4d8e9dc5424a,attorney.beauty,premium,812.5,,high,low,8,name.com,,,
 8d576adf-70c7-40c8-a22c-de7ef34dbe76,peel.beauty,available,1.65,15.75,high,low,4,namesilo,,,
@@ -247,8 +239,7 @@ f68b3b5f-535e-4bad-963f-5c49ab112cb5,carrie.beauty,available,1.65,15.75,high,low
 c7d52a38-4ac5-496b-b537-ce8e67b3822c,kingdom.beauty,premium,2500,,high,low,7,name.com,,,
 0261234f-e380-4a8e-afb2-c42bd9458c66,decent.beauty,available,1.8,19.98,high,low,6,namecheap,,,09/08/2026 06:17
 ebbf93aa-4445-4cb7-9a6b-df7564824e1f,plaguy.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
-4ac7e85c-7118-42d2-a56c-d5bb7c3ab805,irrational.beauty,available,1.65,15.75,high,low,10,namesilo,,,
-ec3a4f73-dec3-444d-b389-819f666895fc,top.beauty,premium,2500,,high,medium,3,name.com,,,
+4ac7e85c-7118-42d2-a56c-d5bb7c3ab805,irrational.beauty,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 11:23
 de16c8db-6acc-457e-ace9-a8d40e7af63d,abbatial.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 a6674588-1f4d-4758-90ba-115fd4eaccfe,substantial.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 5f590252-5520-4a07-a1ad-5e5a7d3ced21,bridges.beauty,premium,812.5,,high,low,7,name.com,,,
@@ -257,12 +248,12 @@ c919e883-b74e-4520-8e05-18088814061a,propose.beauty,available,1.65,15.75,high,lo
 3a7e0cc2-9316-4acb-9429-fd310956352b,job.beauty,premium,2500,,high,low,3,name.com,,,
 a80074aa-1001-449d-b713-e27ea70c4b7e,customize.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 04c85c97-b13a-4f3c-9f39-ed6293fa361f,totaled.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-964a10ff-876c-484b-b3f3-6d82b16bb8a8,earmark.beauty,available,1.8,19.98,high,low,7,namecheap,,,06/08/2026 09:08
+964a10ff-876c-484b-b3f3-6d82b16bb8a8,earmark.beauty,available,1.8,19.98,medium,low,7,namecheap,,,06/08/2026 09:08
 4512b0ee-c8f6-4c99-b50c-6b8a0f3032a2,cons.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 e300b71f-5eb3-4795-9834-65ef18edd031,influential.beauty,available,1.8,21.98,high,low,11,namecheap,,,08/09/2026 05:20
 76279a77-f065-408e-9921-b9a7927d5fe7,seaside.beauty,resell,,,high,low,7,"GMO Internet Group, Inc. d/b/a Onamae.com",26/09/2025 10:58,26/09/2026 23:59,
 731c4399-8b26-4294-8d06-7bff4d4a24fc,fish.beauty,premium,812.5,,high,low,4,name.com,,,
-2a02e918-6898-4c04-a39c-746953f8b8eb,adipose.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+2a02e918-6898-4c04-a39c-746953f8b8eb,adipose.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 7065821c-3a87-4016-ac10-2d2e0276d0d2,assess.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 203a0804-ec84-43e3-a562-40d6356f0d77,secured.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 e88c6237-11e6-4a4c-8f1a-a086c049bd13,tub.beauty,available,1.65,15.75,high,low,3,namesilo,,,
@@ -278,6 +269,7 @@ db6625a9-8b1e-434b-b573-02f90f5322d1,deviant.beauty,available,,,high,low,7,,,,
 05b2272b-e5bf-4a68-8386-3b96ac7ec524,abnaki.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
 df7f30e9-d0e6-4193-a5c2-428f349f3fcf,annoy.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 0e3ac79a-8fa3-4e03-a764-8a2e50451e54,auxetic.beauty,available,1.8,19.98,medium,low,7,namecheap,,,07/08/2026 21:28
+c122ca95-6df0-48be-b330-8bc377760a70,layer.beauty,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 11:32
 75d86bcb-9f68-49c3-9724-3c64eb2f790d,acarpelous.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 3af338a4-6598-4282-84e8-d57e68d59501,however.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 6409d4d8-f5ff-4c93-8628-9ce51cfb23fc,disclosure.beauty,available,1.99,,high,low,10,name.com,,,
@@ -285,16 +277,15 @@ f4c8f4c8-2cdf-4332-be7c-cd9d2695e8f6,stability.beauty,available,1.65,15.75,high,
 cca612b2-bc03-4ed8-ab9c-d83cdbfc3f6c,quaternion.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 4accbd1f-a06c-49cb-a2b8-184612329aa9,beefy.beauty,available,1.8,19.98,medium,low,5,namecheap,,,09/08/2026 07:49
 4646c09d-643a-40c1-baa7-c6e50aac9914,spacious.beauty,available,1.99,,high,low,8,name.com,,,
-ecde26a1-b4ba-4b9c-8f54-068351fff9ce,annulated.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+ecde26a1-b4ba-4b9c-8f54-068351fff9ce,annulated.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 79eac98c-a0cb-4949-9917-4330042272e9,streetfighter.beauty,available,1.99,,medium,low,14,name.com,,,
 a0ae6377-e3a7-4ab1-8dce-c59a42c6b30f,sailor.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 2d083812-60e2-4126-9e6a-3a5222a2ce62,ass.beauty,resell,,,high,low,3,"Spaceship, Inc.",27/07/2024 13:37,27/07/2027 23:59,09/08/2026 12:05
-9d955ba6-9c67-4659-9776-a982b6c7203a,real.beauty,premium,2600,15.73,high,medium,4,namecheap,,,
 4afd4edc-8686-489f-a652-6e620cdd9622,nicole.beauty,premium,812.5,,high,low,6,name.com,,,
 2e53e7d2-8083-4b60-94d5-8f884453aed8,cannabis.beauty,premium,2500,,high,medium,8,name.com,,,
 f719ea8f-01a5-4da8-b8ba-5900de0ed366,although.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 9af39c6f-177b-401e-bbb6-ce6548cbf01a,egg.beauty,available,1.65,15.75,high,low,3,namesilo,,,
-ca8a1fb2-27ed-4f80-a8ba-fefda6823232,obsessive.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+ca8a1fb2-27ed-4f80-a8ba-fefda6823232,obsessive.beauty,available,1.8,21.98,high,low,9,namecheap,,,25/09/2026 23:45
 9cf0764e-5fb9-49ea-90ff-77246c498a25,analyst.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 0c2e5b01-3c07-4169-95b4-7ee4f1102641,bachelor.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 1d93b233-744b-426b-8270-c0ddabf6aa1d,activity.beauty,available,1.65,15.75,high,low,8,namesilo,,,
@@ -311,14 +302,12 @@ a726bcfc-2e5e-4fb0-981a-f6a4fdba7ffc,creatively.beauty,available,1.99,,high,low,
 459a5562-f234-42ea-9c89-2d0ba206526d,instagrammable.beauty,available,1.65,15.75,medium,low,14,namesilo,,,
 ada30934-b212-45b5-9ed9-bf3b78ba26a9,batman.beauty,premium,2500,,high,low,6,name.com,,,
 5c59983d-968c-482c-a5e0-1928b52b832f,attender.beauty,available,1.8,19.98,medium,low,8,namecheap,,,07/08/2026 15:17
-98bfe53b-b913-4ee0-bf68-e21fe5d753c8,theory.beauty,available,1.99,,high,low,6,name.com,,,
 77e439d3-0f42-44ec-9f0b-7e3113ac73d3,lego.beauty,premium,2500,,high,high,4,name.com,,,
-76a7febd-3ca3-4110-9874-04bb77ddf114,taken.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+76a7febd-3ca3-4110-9874-04bb77ddf114,taken.beauty,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 10:20
 96138c86-57a1-4b34-8cd4-37ce51c8a1aa,acronymous.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 61696df3-366d-4cad-8d5a-4b3a38dd510e,aleut.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 8907af33-f5a0-44c3-9bf6-00ae126decdf,points.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 ddccc958-13db-4978-9566-fd34f17934ca,bashful.beauty,available,1.8,19.98,high,low,7,namecheap,,,08/08/2026 22:01
-44715d88-5c66-4980-8998-d3cc5a2a6128,original.beauty,premium,2500,,high,low,8,name.com,,,
 a96ba32b-8d7b-45ba-a09c-1a7e0c6a2ec1,gaming.beauty,premium,2500,,high,low,6,name.com,,,
 b7a25a06-e017-498f-8e59-cc326667279e,courtroom.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 c79b8240-f466-44cf-bc08-afc5ae9ca472,upper.beauty,available,1.65,15.75,high,low,5,namesilo,,,
@@ -336,10 +325,10 @@ e96cd236-b161-47bd-ad1c-f00405954cf2,seriously.beauty,available,1.65,15.75,high,
 ae4cff30-133f-4515-8f9c-5c0f77458f4b,ebay.beauty,premium,2500,,high,high,4,name.com,,,
 74ce782f-7e86-45f9-9a1a-523e3739f96f,aeonian.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 c81df10a-8d97-4f1b-a4be-f90d84d33023,invitation.beauty,available,1.65,15.75,high,low,10,namesilo,,,
-c2bbbdf2-1ee7-4ab8-9b46-192e2d6de264,saint.beauty,premium,812.5,,high,low,5,name.com,,,
+c2bbbdf2-1ee7-4ab8-9b46-192e2d6de264,saint.beauty,premium,832,832,high,low,5,namesilo,,,25/09/2026 23:06
 cd486c46-8654-4f60-bcef-6a799b379977,birthday.beauty,premium,812.5,,high,low,8,name.com,,,
 7d4f4e44-d9da-486c-907b-9936a7136b33,fourth.beauty,available,1.65,15.75,high,low,6,namesilo,,,
-b6fa8774-ee5f-4646-9f17-994cc8b1f6f0,disappointed.beauty,available,1.65,15.75,high,low,12,namesilo,,,
+b6fa8774-ee5f-4646-9f17-994cc8b1f6f0,disappointed.beauty,available,1.65,15.75,medium,low,12,namesilo,,,
 527de5ab-58a5-4124-b0f0-fcb35d00de36,stepson.beauty,available,1.99,,high,low,7,name.com,,,
 85713317-85d2-4fca-bdae-aac1d4439579,bali.beauty,premium,2500,,high,medium,4,name.com,,,
 bb0c1e4f-9aeb-409a-8ff8-809813389d4c,atrip.beauty,available,1.8,19.98,low,low,5,namecheap,,,07/08/2026 14:33
@@ -361,7 +350,7 @@ b894da21-e172-4afd-810c-a77897268b8f,artesian.beauty,available,1.8,19.98,high,lo
 eae3e689-4de9-4ee8-8238-8f56c8f9b285,beatified.beauty,available,1.8,19.98,medium,low,9,namecheap,,,09/08/2026 05:53
 90f22278-9baa-47b1-825e-129e32f378f6,description.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 a91222a5-1d24-407e-93dd-ea756fa4acaa,cooperation.beauty,available,1.99,,high,low,11,name.com,,,
-2bbc6083-4aa5-4467-854b-acf20852dbe1,bowed.beauty,available,1.8,19.98,high,low,5,namecheap,,,06/08/2026 14:55
+2bbc6083-4aa5-4467-854b-acf20852dbe1,bowed.beauty,available,1.8,19.98,medium,low,5,namecheap,,,06/08/2026 14:55
 8e1c2a03-be8e-4442-82e8-174ad4ae73c4,assignable.beauty,available,1.8,19.98,medium,low,10,namecheap,,,07/08/2026 06:19
 c9183205-4472-44e1-9d93-24efc2dbbe63,laziness.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 259c6746-9203-45fd-ba20-e642b8d25b11,harm.beauty,available,1.8,21.98,high,low,4,namecheap,,,08/09/2026 07:44
@@ -369,19 +358,20 @@ c9183205-4472-44e1-9d93-24efc2dbbe63,laziness.beauty,available,1.65,15.75,medium
 daea6ded-32e9-4a17-9c50-b2bdc3748097,accursed.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 9a445f8c-0e41-4dcd-a3a4-40e509bfe096,facetious.beauty,available,1.8,19.98,medium,low,9,namecheap,,,08/08/2026 14:39
 7e741161-abae-4db6-8a63-261d33b37d6f,relations.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-aa789bf7-e13c-46e4-91c2-a06907982c8b,armless.beauty,available,1.8,19.98,high,low,7,namecheap,,,06/08/2026 19:54
+aa789bf7-e13c-46e4-91c2-a06907982c8b,armless.beauty,available,1.8,19.98,medium,low,7,namecheap,,,06/08/2026 19:54
 e0301498-d553-488c-8e1f-9bb0cbd7e292,cassette.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 49de9c61-50e2-4953-aeeb-c2b70997c7cc,california.beauty,premium,2500,,high,low,10,name.com,,,
 9b67c05a-ce5a-4197-ac56-6eb65df2c5fb,tile.beauty,resell,,,high,low,4,Dynadot LLC,14/02/2026 10:13,14/02/2027 23:59,
 b54e33bc-d400-4822-abe3-5ec40d977aa3,xcii.beauty,available,1.8,19.98,medium,low,4,namecheap,,,
 9d065bda-60de-4bd2-b153-5fe5c88b6a0b,diversify.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-45d98afa-016f-4d3c-a4e8-7b0cb2a888b5,atop.beauty,available,1.65,15.75,high,low,4,namesilo,,,
+45d98afa-016f-4d3c-a4e8-7b0cb2a888b5,atop.beauty,available,1.65,15.75,medium,low,4,namesilo,,,
 53953e72-c22b-4ba3-93fe-2bfddd30c387,categorically.beauty,available,1.65,15.75,medium,low,13,namesilo,,,
 4afc9167-9e3d-49dd-9de2-1d1fe96ab872,geometry.beauty,available,1.99,,high,low,8,name.com,,,
+92c446df-1c1d-44d5-9ffc-06eb022c90fc,plastic.beauty,resell,,,high,low,7,Dynadot Inc,28/08/2026 15:40,28/08/2027 23:59,25/09/2026 21:21
 9f6078ad-30d6-4f59-8f62-c80c2ce45b00,carry.beauty,available,1.99,,high,low,5,name.com,,,
 94ffc842-74a4-4e12-b833-31c37f4adf7d,parent.beauty,available,1.99,,high,low,6,name.com,,,
 7d6c4fd3-5855-4425-b517-a32e0d50c9d8,laudable.beauty,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 07:01
-c2a098a4-bbb4-4093-9351-7b7ab7bc75a0,story.beauty,premium,2500,,high,medium,5,name.com,,,
+c2a098a4-bbb4-4093-9351-7b7ab7bc75a0,story.beauty,premium,2660,2660,high,medium,5,namesilo,,,25/09/2026 22:53
 b657c06a-f23f-4d10-bfd1-375535359115,grocery.beauty,premium,812.5,,high,low,7,name.com,,,
 8ddff30f-9d92-4f33-9f36-b25d75825caa,grueling.beauty,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 16:45
 f95bcb6f-0e88-43c1-a2eb-fe23e8d73eb8,aerial.beauty,available,1.65,15.75,high,low,6,namesilo,,,
@@ -392,9 +382,10 @@ c40b56b5-5024-4ff6-94a9-c8e7512f2215,beauteous.beauty,available,1.8,19.98,high,l
 a0e0be71-9bce-438e-80ae-841f78e2711e,styptic.beauty,available,1.8,19.98,medium,low,7,namecheap,,,07/08/2026 10:00
 b452b874-154c-4bf7-acac-c7f12057dbeb,largely.beauty,available,1.99,,medium,low,7,name.com,,,
 60f54304-b87a-484b-a5a6-f6d51690ff0a,demonstration.beauty,available,1.65,15.75,high,low,13,namesilo,,,
-880abdce-e734-404c-a7b7-1ed2d27b9f58,retracted.beauty,available,1.99,,high,low,9,name.com,,,
+880abdce-e734-404c-a7b7-1ed2d27b9f58,retracted.beauty,available,1.99,,medium,low,9,name.com,,,
 baed88c4-5d55-4784-bbac-4b32c6db529c,susan.beauty,premium,812.5,,high,low,5,name.com,,,
 f9ab5448-15ad-4136-96e3-d44319d536b5,tasks.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+334a6afd-404a-4f33-a979-8c052d118447,education.beauty,premium,2660,2660,high,low,9,namesilo,,,25/09/2026 10:41
 e9a9b40b-248b-464a-bc39-93d008019441,surfaces.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 bc994386-99db-453b-b6a6-b8159643552d,vegan.beauty,premium,812.5,,high,medium,5,name.com,,,
 474bf25e-8e02-49e5-bbda-e27a430b3cb4,intrigue.beauty,available,1.65,15.75,high,low,8,namesilo,,,
@@ -406,7 +397,7 @@ bd5496f4-88b9-4ca2-9d66-17547c75456f,catch.beauty,premium,2500,,high,low,5,name.
 ce39976e-817a-4ce1-a8ce-5efbe2f3b02a,lol.beauty,resell,,,high,low,3,"Spaceship, Inc.",13/10/2025 20:42,13/10/2026 23:59,
 010b181b-68c8-40df-be4b-7c78bdabb0b5,toy.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 66907fb9-93a6-4ce0-bc7d-ad4bd84ac700,talk.beauty,premium,2500,,high,low,4,name.com,,,
-4bce654f-d119-431d-ad8a-9f81f59d0edb,loved.beauty,resell,,,high,low,5,"Spaceship, Inc.",01/12/2025 22:07,01/12/2026 23:59,
+4bce654f-d119-431d-ad8a-9f81f59d0edb,loved.beauty,resell,,,high,low,5,"Spaceship, Inc.",01/12/2025 22:07,01/12/2026 23:59,25/09/2026 14:27
 2ddeb19d-76d8-4142-b3e1-df62e998cf7e,kilogram.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 26f962e0-c2e4-4538-809c-88b801c13500,performing.beauty,available,1.8,19.98,high,low,10,namecheap,,,
 30e18f0f-04f3-4f75-9039-617848f1281a,beetle.beauty,available,1.8,19.98,high,low,6,namecheap,,,09/08/2026 08:17
@@ -414,7 +405,7 @@ b664f319-5175-417e-bfb9-8e8aec7ef275,aplitic.beauty,available,1.8,19.98,medium,l
 1b687ed3-84bb-4726-80e1-4154d1aaa514,airborne.beauty,available,1.8,19.98,high,low,8,namecheap,,,
 584d41e3-6059-402f-bba2-ca5b21fe892a,playfield.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 00a1d4b2-c70a-4cc4-8cd3-c2464208aaa7,alcoholic.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-aa9559ad-c464-4158-a998-4823a8a8742c,located.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+aa9559ad-c464-4158-a998-4823a8a8742c,located.beauty,available,1.8,21.98,high,low,7,namecheap,,,25/09/2026 14:10
 9daaf6f3-798b-4892-8e7e-01bca88bb229,stopped.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 faf2a843-a190-40d7-a938-1e5bbae048c5,butterfly.beauty,available,1.99,17.29,high,low,9,namesilo,,,24/09/2026 08:31
 28638138-4546-4354-a277-32a85e0bdfcd,respected.beauty,available,1.65,15.75,high,low,9,namesilo,,,
@@ -426,16 +417,17 @@ a6d890f6-148f-4eb1-8fcd-67ea4312c8ef,roiled.beauty,available,1.65,15.75,medium,l
 3ce9ac0b-82ba-4232-b559-eb5a46801553,panes.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 2c9be47b-5e80-4520-ad31-721ebfd24015,spirit.beauty,premium,2500,,high,low,6,name.com,,,
 2dc6ddaf-e78d-4733-9bea-e009a7b0cb09,fleshly.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
+9461d1e8-9c1a-4ffa-96f1-4cf33a96488b,technology.beauty,premium,832,832,high,low,10,namesilo,,,25/09/2026 15:15
 6c434e2b-6c84-4347-b0e6-a2699e6eb684,vindicated.beauty,available,1.8,21.98,high,low,10,namecheap,,,08/09/2026 05:23
 7579af25-888d-4c13-aace-bae63c42213d,actress.beauty,premium,1.65,15.75,high,low,7,namesilo,,,
 6b209884-d2ed-4b4e-b2da-b651bbc2d096,hunger.beauty,available,1.65,15.75,high,low,6,namesilo,,,
-a3589b92-ad7c-4892-932c-70955bb576e6,vary.beauty,available,1.65,15.75,high,low,4,namesilo,,,
+a3589b92-ad7c-4892-932c-70955bb576e6,vary.beauty,available,1.99,17.29,high,low,4,namesilo,,,25/09/2026 21:59
 b54504f5-f74a-4148-906d-2a3c16e3bc47,section.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 2933c079-d1d2-489c-b054-1bc41f630fca,darken.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 da609764-8b37-4237-b5ae-c1894e3d162b,tomato.beauty,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",29/01/2026 03:30,29/01/2027 23:59,
 d395bfd9-71d4-46e0-a8fa-1588a0e14333,detroit.beauty,premium,812.5,,high,low,7,name.com,,,
 223f7f04-823c-4796-8c28-18ed4a2b8817,alpine.beauty,premium,2500,2500,high,medium,6,name.com,,,
-8d3a9977-fe17-45c0-841b-f89c5a7b948c,describe.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+8d3a9977-fe17-45c0-841b-f89c5a7b948c,describe.beauty,available,1.8,21.98,high,low,8,namecheap,,,25/09/2026 12:37
 b5006e09-ecf9-4cb7-8955-9c41d784386d,afghan.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 6ecd2075-7abb-49bb-acd0-97c3ad7a6098,creek.beauty,available,1.99,,high,low,5,name.com,,,
 f2c46a36-f884-4c6e-a87d-308b0564a23e,canada.beauty,available,,,high,low,6,,,,
@@ -455,15 +447,17 @@ be1a6fce-cc08-4ff1-908f-aba8a05435d9,browse.beauty,premium,2500,,high,low,6,name
 9ee1c069-fe31-456f-bc24-fb61092c206f,bantam.beauty,available,1.8,19.98,high,low,6,namecheap,,,08/08/2026 14:01
 667d0957-bf74-4e26-b73d-709ce344bfb0,ratter.beauty,available,1.8,19.98,low,low,6,namecheap,,,06/08/2026 04:00
 1316f78a-652e-49f0-92be-0ce9580a737d,defense.beauty,available,1.99,,high,low,7,name.com,,,
-96fa40db-633a-4f8b-9b3b-b670812d79bb,interviewee.beauty,available,1.65,15.75,high,low,11,namesilo,,,
+96fa40db-633a-4f8b-9b3b-b670812d79bb,interviewee.beauty,available,1.65,15.75,medium,low,11,namesilo,,,
 22c1ff24-6cec-4a3b-a282-0f9f485dd69b,continuously.beauty,available,1.65,15.75,medium,low,12,namesilo,,,
 d56a65c8-e651-49c8-ab2a-ea9963c6ab27,astatic.beauty,available,1.8,19.98,medium,low,7,namecheap,,,07/08/2026 08:36
 537612e5-d010-4f01-bd38-2bf15328f4f8,rhianna.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 d086b874-7d3d-4905-aa62-11169c500ed7,retain.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 4931d6a9-5b4c-4390-a798-c51b1f4bdc14,advert.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 bcb4cfbe-4b0e-46d0-be84-e5d8b3be4c7a,condo.beauty,premium,812.5,,high,low,5,name.com,,,
+2a053476-8f5b-4927-af39-8763bc1592f8,sexual.beauty,resell,,,high,low,6,"Spaceship, Inc.",02/07/2026 20:51,02/07/2027 23:59,25/09/2026 13:55
 cffc3bf0-5fbd-40aa-8410-89448103006f,cleverly.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 e424a964-c31d-4970-a8af-cf9383b6293d,pin.beauty,premium,812.5,,high,low,3,name.com,,,
+2e49e633-3553-4a41-93b0-90255d5e6d3e,jupiter.beauty,resell,,,high,low,7,Dynadot Inc,12/08/2026 08:05,12/08/2027 23:59,25/09/2026 11:21
 a6248491-5d65-4f47-b4d9-2b93326bf222,whacky.beauty,available,1.8,19.98,medium,low,6,namecheap,,,06/08/2026 21:32
 85834762-d65e-4fe9-8a6c-0d5bb0a515d7,unstoppable.beauty,available,1.99,,high,low,11,name.com,,,
 d1c483e4-2f49-4baf-b3ef-592fb6b916c5,bearded.beauty,available,1.8,19.98,high,low,7,namecheap,,,08/08/2026 16:05
@@ -484,7 +478,6 @@ ee11ab9c-60b9-4907-849e-bb04368dcf29,allergy.beauty,available,1.65,15.75,high,lo
 2fcd5f0b-1ada-4e09-98df-81be2b851303,totality.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 b6149cdd-16c4-49ef-9798-733c1bee4923,apolitical.beauty,available,1.8,19.98,high,low,10,namecheap,,,06/08/2026 02:02
 731e3700-3223-40f5-93d4-73f54e6602e9,hanger.beauty,available,1.99,,high,low,6,name.com,,,
-b2c77fc3-1062-4557-8a90-1a8067bc8d60,digitally.beauty,available,1.99,,high,low,9,name.com,,,
 42438c61-9be2-4226-99ff-3be5bb058da7,driver.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 83c56036-82f3-427a-a26e-244db927fbd8,marines.beauty,available,1.99,,high,low,7,name.com,,,
 6ade2a23-4aaa-44fb-bcb1-e512e80e1d28,thirteenth.beauty,available,1.65,15.75,high,low,10,namesilo,,,
@@ -499,11 +492,12 @@ de557538-942d-4c40-b48b-1b9871219534,outlet.beauty,premium,2500,,high,low,6,name
 a7c87d0a-f9ca-4210-8d98-bc4c4c9677dc,anaclitic.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 fa8da411-0a24-4690-81ed-0576d6d08f7c,facilitating.beauty,available,1.65,15.75,medium,low,12,namesilo,,,
 1fca7d38-86ce-4ed4-b7b6-e1a06a3cd58a,consultant.beauty,premium,2500,,high,low,10,name.com,,,
-d5b0d5d0-f289-4830-89c7-8694b5baa9fc,apostolic.beauty,available,1.8,19.98,high,low,9,namecheap,,,06/08/2026 04:04
+d5b0d5d0-f289-4830-89c7-8694b5baa9fc,apostolic.beauty,available,1.8,19.98,medium,low,9,namecheap,,,06/08/2026 04:04
 2c9d6728-5966-4947-a6d6-ce179266fbf0,shooting.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 42e2c8fd-a38d-464f-92fb-e13c0a1179cb,getting.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 67c8be1b-db16-41d2-8d00-36e03bfa2902,longitude.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-3b809c86-7b90-40ff-bb86-1d1a925437d4,normandy.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+f7246751-bd4c-4cac-8471-7071df8a0e6f,miracle.beauty,resell,,,high,low,7,"Spaceship, Inc.",04/06/2026 20:29,04/06/2027 23:59,25/09/2026 12:05
+3b809c86-7b90-40ff-bb86-1d1a925437d4,normandy.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 532e8d58-7038-45aa-9c02-14fcb83b9058,blackmailing.beauty,available,1.65,15.75,medium,low,12,namesilo,,,
 03fbb0c9-e76c-4b17-8b22-0954ecbf48ef,adam.beauty,premium,2500,,high,high,4,name.com,,,
 8069abee-6208-4cf2-89d8-efacb02ccc53,livid.beauty,available,1.8,19.98,medium,low,5,namecheap,,,07/08/2026 02:24
@@ -521,7 +515,7 @@ ec611442-7087-4b52-a4b1-08bd2aed03a3,incline.beauty,available,1.65,15.75,high,lo
 87d14803-2e0e-4752-b724-b9b3b14493b8,watch.beauty,resell,,,high,low,5,"Spaceship, Inc.",02/03/2021 14:47,02/03/2027 23:59,
 f39b3f8b-8d7c-4695-8265-22414b8d9a5b,anionic.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 48579138-32c2-44dd-8954-3512eeb7f918,vibrate.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-11c473bf-cf4d-42b5-b421-0ea84b3b01f3,maintained.beauty,available,1.65,15.75,high,low,10,namesilo,,,
+11c473bf-cf4d-42b5-b421-0ea84b3b01f3,maintained.beauty,available,1.8,21.98,high,low,10,namecheap,,,25/09/2026 12:29
 cf6641a2-2914-40d5-895b-934236841abf,liii.beauty,available,1.65,15.75,medium,low,4,namesilo,,,
 1e2dc16e-4942-4d43-a081-1f1daa583f88,solvable.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 ca716262-284f-4b14-9fd6-3875a303d0a1,kansas.beauty,premium,812.5,,high,low,6,name.com,,,
@@ -539,6 +533,7 @@ c08b2ee7-ea01-42df-a114-e80327f13d16,medication.beauty,available,1.65,15.75,high
 2c7efaed-446e-4fac-bbe5-8867edcad39e,becoming.beauty,available,1.8,19.98,high,low,8,namecheap,,,09/08/2026 06:08
 d030f1d3-17a3-4c56-a530-e98e5ac04530,nutritive.beauty,available,1.8,21.98,high,low,9,namecheap,,,08/09/2026 09:04
 afb485f6-c687-4da4-afe6-0d4a51aa4efb,pivot.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+d7ef47a3-7a6e-4cc7-8f2c-36f364f55e23,excel.beauty,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 09:50
 84660928-67ec-45a3-89aa-a421e9018471,turnabout.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 ee1ce4a0-4e8e-4ba8-a790-3e639f39a26f,adulterate.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 972ecc51-4ad0-491a-b527-f61c2adef1e7,affixed.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
@@ -546,6 +541,7 @@ c173a032-779e-44fd-9aaf-b7873c193123,managing.beauty,available,1.65,15.75,high,l
 a13a23aa-1013-4202-ac62-f3fb5d6de4ea,apical.beauty,available,1.8,19.98,high,low,6,namecheap,,,05/08/2026 23:58
 32e2cfef-f09a-41a3-9405-e8cee279cfb7,andorran.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 2e2ef1a1-8118-450b-9e1e-781b72bd259d,consent.beauty,available,1.8,21.98,high,low,7,namecheap,,,08/09/2026 13:17
+9776796f-ad94-4fc0-97f3-a20455d14db2,north.beauty,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 23:09
 29b03517-c0d1-4231-aa52-d2aacc6983c4,recondite.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 84728d65-f5f8-4cb6-84a6-2b1ae6c2c361,plentiful.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 0f51a1c7-a9d4-4153-8a13-a6b99678a618,reliability.beauty,available,1.65,15.75,high,low,11,namesilo,,,
@@ -556,7 +552,7 @@ e467d72d-050b-4972-8c04-912364861b1f,ascendent.beauty,available,1.8,19.98,medium
 456de193-6e7a-4c95-b6b3-9acc1b425d2a,brighten.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 82c4467b-36ad-42a5-ae49-23e463804246,newton.beauty,premium,812.5,,high,low,6,name.com,,,
 5d43d9a6-01cd-407f-ae84-58f837983deb,premiere.beauty,available,,,high,low,8,,,,
-f1eaebff-4892-4c80-904f-d9d74379c32c,meantime.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+f1eaebff-4892-4c80-904f-d9d74379c32c,meantime.beauty,available,1.99,17.29,high,low,8,namesilo,,,25/09/2026 10:12
 755d49fa-0337-4289-b5c0-3f0dafd35b07,oakland.beauty,premium,812.5,,high,low,7,name.com,,,
 df3b8806-98d6-42a7-a7d4-cbf531a8b0b3,alight.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 c1d8b6ea-d75e-42bc-89da-faac5da144ea,attachment.beauty,available,1.65,15.75,high,low,10,namesilo,,,
@@ -564,16 +560,17 @@ b391b4fb-c724-4af4-8c69-b8d50f53deb5,archosaur.beauty,available,1.8,19.98,medium
 af6ec36a-f2aa-439f-a5bb-51a3f3ceb906,wheezy.beauty,available,1.8,19.98,medium,low,6,namecheap,,,07/08/2026 09:31
 165410f0-c761-4a0f-b508-c4bf23c1c2df,unlocking.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 7de5590b-dccd-490b-a9a2-b51614a91eee,sit.beauty,available,1.99,,high,low,3,name.com,,,
+da3664cc-a053-46a4-b534-e705adde50b1,outdoor.beauty,resell,,,high,low,7,Dynadot Inc,14/08/2026 16:12,14/08/2027 23:59,25/09/2026 12:38
 c2394da3-ed6b-421a-810d-025269843100,pretending.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 db46cd7b-0896-4cd3-8578-025c2c081195,sift.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 b19dc521-3ad8-4841-989d-1b258b68cbb5,conspiracy.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 6e29a8e9-2db0-48de-83f2-354159f35190,allogeneic.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
-5d59c39a-ec9d-4c03-a3a0-6f032f108b79,unacceptable.beauty,available,1.65,15.75,high,low,12,namesilo,,,
+5d59c39a-ec9d-4c03-a3a0-6f032f108b79,unacceptable.beauty,available,1.65,15.75,medium,low,12,namesilo,,,
 19cbdcd1-ae69-435d-aa3a-b115f4a1eb1f,usa.beauty,premium,2500,,high,medium,3,name.com,,,
 439abeba-76c8-40ee-bf4f-bd0bbf8cb450,concluded.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 25204fc2-33b8-4d8b-bdc1-964ecc7f8c29,apropos.beauty,available,1.8,19.98,high,low,7,namecheap,,,06/08/2026 10:00
 52856122-63d9-4cc9-a5dd-cd59a842a4dc,nitrous.beauty,available,1.8,19.98,high,low,7,namecheap,,,08/08/2026 03:03
-e1a7ed6f-c287-42fd-8c31-393f87830dc4,inviting.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+e1a7ed6f-c287-42fd-8c31-393f87830dc4,inviting.beauty,available,1.99,17.29,high,low,8,namesilo,,,25/09/2026 11:14
 c5c8bd58-22a0-4fe9-94ab-6ba5f776374f,aloof.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 0cfaa486-8484-4b81-962c-6d053deaa735,reception.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 0a2675c2-66dc-43e5-a579-6656c5b12b00,lxxxii.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
@@ -584,7 +581,7 @@ b4aa6fa5-8847-402d-9b4e-a843977e876e,philip.beauty,premium,812.5,,high,low,6,nam
 1f4586f5-ff54-4f06-a24f-9f63073002b3,aboveboard.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 1313661e-efd3-4140-951b-d32c3742a986,scatty.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
 0c7293e9-faf1-487d-97a9-cb7ba7fcf335,paperback.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-506993db-e039-4c44-a1b3-661c586bedde,alarmed.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+506993db-e039-4c44-a1b3-661c586bedde,alarmed.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 c35d94dc-e5bd-4830-83fb-0f6706a3a106,heel.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 40f8b255-250a-41bd-b5a9-e93745e9dd3e,tilted.beauty,available,1.8,19.98,high,low,6,namecheap,,,07/08/2026 13:29
 6b16be58-2cf1-40e1-aa6a-bb9c8aa3837e,multiplayer.beauty,available,1.65,15.75,high,low,11,namesilo,,,
@@ -592,15 +589,14 @@ da3b9b72-4bd1-4990-a7d7-8646ddd0bb80,very.beauty,premium,2500,,high,low,4,name.c
 bbff14a6-005f-4270-9d6b-2c22ec864449,privileged.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 f399b713-55c6-4d81-90f0-9bdd0748596b,vii.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 012cbe82-abb2-4054-87ed-5a48345f977b,altruism.beauty,available,1.65,15.75,high,low,8,namesilo,,,
-da528e7f-e5ec-415f-9914-637bda1d48d5,identified.beauty,available,1.65,15.75,high,low,10,namesilo,,,
-cb536174-59ba-42e7-b7f4-202ee0bfb730,shush.beauty,available,1.65,15.75,high,low,5,namesilo,,,
-0b834fd5-20b3-49bd-9a48-e31284b4b5e6,import.beauty,available,1.65,15.75,high,low,6,namesilo,,,
+cb536174-59ba-42e7-b7f4-202ee0bfb730,shush.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 b6de214e-5a7b-4394-a978-822adb13ca70,yum.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 f5594ffe-1096-40ad-8ca3-daa1ff3cd64f,affiliated.beauty,available,1.65,15.75,high,low,10,namesilo,,,
-00838549-c030-4d3c-ab15-742f41ae2337,ballistic.beauty,available,1.8,19.98,high,low,9,namecheap,,,08/08/2026 10:31
+00838549-c030-4d3c-ab15-742f41ae2337,ballistic.beauty,available,1.8,19.98,medium,low,9,namecheap,,,08/08/2026 10:31
 a52e370f-adc7-4399-b203-1a1e5fb55397,attraction.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 5d5c1a2a-a0db-4986-bb11-ad24cec42807,relevance.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-f59f1f55-f3e1-4eed-9449-6e8f4daa203c,otherwise.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+f59f1f55-f3e1-4eed-9449-6e8f4daa203c,otherwise.beauty,available,1.99,17.29,high,low,9,namesilo,,,26/09/2026 00:41
+74f55df9-5c63-4b24-8835-211ae43d6903,spf.beauty,available,1.99,17.29,high,low,3,namesilo,,,25/09/2026 17:19
 29d803d7-248b-4940-b4da-6bfd76d57c21,nose.beauty,available,,,high,low,4,,,,
 f5f80410-e20c-4d1d-a99a-0a8cbd1bcc06,plague.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 cdc2af55-d765-4669-a386-e689bf99b1df,aestival.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
@@ -617,7 +613,6 @@ d836fa31-427e-4e0f-b32e-f3b1ab36d240,gate.beauty,premium,812.5,,high,low,4,name.
 04d818e5-c4ab-4aa2-b131-05beff79eef9,lcd.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 b5fc4c5e-414d-4f10-b75f-8fd3bf3834f8,satisfy.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 6c0a5371-8979-4931-8a6c-09c8346cbb8b,shortly.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-3ec05618-44dd-4b46-bc3f-7c55a164550a,lead.beauty,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",07/10/2025 14:28,07/10/2026 23:59,
 fc88c31d-f93b-451b-a8ec-fffdec225e93,install.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 dbc2cec1-da43-4e68-b949-1b08e971d9ca,initially.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 dbb93910-59ac-458b-8949-252273c829a9,abeyant.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
@@ -647,15 +642,15 @@ fde9da69-d287-4384-9ab0-d2cd5903653e,publicized.beauty,available,1.99,,high,low,
 a3efafc4-69f7-4c3a-8c2d-6110c35635e3,lights.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 32a1140c-43f8-4f8c-bfcc-7dcba510022e,verbal.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 15dc2b09-6da6-4781-a675-4e11d41b3197,septenary.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
-4cd57c5a-9d93-425d-9a4c-b3bfa3fe5bfd,woops.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+4cd57c5a-9d93-425d-9a4c-b3bfa3fe5bfd,woops.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 16845df4-d998-4b39-87c1-0164461dbd88,auric.beauty,available,1.8,19.98,high,low,5,namecheap,,,07/08/2026 17:36
 c8a336de-f31e-4429-812f-327be6abfd75,affirm.beauty,premium,2500,,high,high,6,name.com,,,
-7f3e9c7f-c6bb-45ed-a8f6-cb3c05f24ddf,mobile.beauty,premium,2500,,high,medium,6,name.com,,,
+7f3e9c7f-c6bb-45ed-a8f6-cb3c05f24ddf,mobile.beauty,premium,2600,2600,high,medium,6,namecheap,,,25/09/2026 21:00
 927d302a-2e95-4cc6-abf2-b2c9ebae4404,bake.beauty,premium,812.5,,high,low,4,name.com,,,
 6be05c03-4a66-421d-8b2a-6e4a82a9484e,rest.beauty,resell,,,high,low,4,"Spaceship, Inc.",24/03/2026 21:50,24/03/2027 23:59,
 1937cca0-3399-4fe2-9816-2b196fa4f78a,grandmother.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 796209df-e24a-4fc7-9917-111e0812a1c0,opt.beauty,available,1.65,15.75,high,low,3,namesilo,,,
-b057e6e1-f43b-4b16-9d44-153a6de671e0,bossy.beauty,available,1.8,19.98,high,low,5,namecheap,,,07/08/2026 19:35
+b057e6e1-f43b-4b16-9d44-153a6de671e0,bossy.beauty,available,1.8,19.98,medium,low,5,namecheap,,,07/08/2026 19:35
 29a88d16-ca04-4e2e-8a93-148b4837409b,devise.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 50ec2fe2-e90e-44d3-a0d7-b809d3e2c8b4,aside.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 d6865179-a7a1-45ca-9dbe-121c07807514,towards.beauty,available,1.65,15.75,high,low,7,namesilo,,,
@@ -682,15 +677,16 @@ a7eef12e-5dbd-4289-b067-f4f82a41d0c0,bellicose.beauty,available,1.8,19.98,low,lo
 8a871999-708c-4bd4-b8d1-df18c49d589f,cement.beauty,available,1.99,,high,low,6,name.com,,,
 0be08fd8-d836-4033-a9fa-dc26b04ca935,lxx.beauty,available,1.65,15.75,medium,low,3,namesilo,,,
 bb0d3370-2c12-4efe-9b55-eddba96ec5f9,seeming.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+8cae9d50-3cc9-4706-bac5-c30d56ecbf2a,retreat.beauty,resell,,,high,low,7,Dynadot Inc,04/07/2026 22:25,04/07/2027 23:59,25/09/2026 13:32
 4ddd4a49-2224-4b7d-863f-74efb700c02c,antonymous.beauty,available,1.8,19.98,medium,low,10,namecheap,,,05/08/2026 20:16
-f01251aa-266f-44c3-ad8b-65f72d5ca612,need.beauty,premium,2500,,high,low,4,name.com,,,
+da4cd64c-e55d-4e1c-99ca-606c5fadab21,guard.beauty,resell,,,high,low,5,Dynadot Inc,09/06/2026 16:12,09/06/2027 23:59,25/09/2026 10:41
 79e8d050-5e43-4ac6-af6b-b3d38cd878fc,clx.beauty,available,1.65,15.75,high,low,3,namesilo,,,
 e2169640-db17-4bae-8140-20f8c476e019,evident.beauty,available,1.8,19.98,high,low,7,namecheap,,,06/08/2026 05:13
 1720c202-dcf9-4b76-9639-f8a2cb989f27,hairbrush.beauty,available,1.99,,high,low,10,name.com,,,
 b7b2932f-b68e-428a-a851-dd469b34ed5d,surrounding.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 c878ca34-7d81-4858-81d7-45b32f7898dd,jewel.beauty,resell,,,high,low,5,"Spaceship, Inc.",04/12/2024 08:15,04/12/2026 23:59,
 3966e689-fae5-4817-81dd-1cf0ff47c05e,seeds.beauty,available,1.99,,high,low,5,name.com,,,
-2acd7dfd-e06c-4886-9757-0bb89375b1e9,ambulant.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+2acd7dfd-e06c-4886-9757-0bb89375b1e9,ambulant.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 099bf192-478e-41ae-a7d4-157f4cfe51c1,rice.beauty,premium,812.5,,high,low,4,name.com,,,
 83ff6820-b951-4eac-b268-3c51f538501b,songbird.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 ef9d7b8c-650d-4c57-904f-2e373b553233,advisable.beauty,available,1.65,15.75,high,low,9,namesilo,,,
@@ -698,7 +694,6 @@ ef74297d-6874-4a0f-b546-673fc1d7ec02,pastoral.beauty,available,1.8,19.98,high,lo
 e73e765c-6f23-4eb2-bfc9-dfad99e39be0,ohmygosh.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 6f40e08b-cc4a-4c57-bb1c-77cc6afb8280,fold.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 c6a1540e-9640-48d1-b07c-771989f033c6,baseless.beauty,available,1.8,19.98,medium,low,8,namecheap,,,08/08/2026 21:44
-65edb73c-b377-4312-96d3-048aa4f55c7c,initial.beauty,premium,2500,,high,low,7,name.com,,,
 83d033bf-a1fe-4f10-8fdf-f2a150da369a,mention.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 2860c096-d537-47a0-adb7-badefdb5de61,jesus.beauty,resell,,,high,medium,5,Dynadot LLC,08/02/2026 11:13,08/02/2027 23:59,
 428bf09a-26b7-4833-b043-104e086a95c4,and.beauty,premium,2500,,high,medium,3,name.com,,,
@@ -708,7 +703,6 @@ fc6e8c62-a0bd-4ef0-b46e-b501142ab9cb,phantasmal.beauty,available,1.8,19.98,mediu
 af566ddc-764a-4180-9fc9-27a3dca3b519,prayer.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 95440682-f54b-4df1-ab59-ce7db94522fb,analog.beauty,premium,2500,2500,high,low,6,name.com,,,
 75e77878-83b3-4580-84f8-2215b839b8cf,baghdad.beauty,premium,812.5,,medium,low,7,name.com,,,
-9649d4e3-4f8d-4eb9-87ec-86d06d40381a,informal.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 13ba5306-5618-4b6a-93c9-2ed59c4326e2,moonlight.beauty,premium,2500,,high,low,9,name.com,,,
 4384e115-0587-4d70-a2a2-c807d89ac654,actinic.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 34ca4b7b-709e-4b97-9354-2829c82e23f5,aboulic.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
@@ -726,9 +720,9 @@ b2cd423d-135e-4eb6-9d70-e15c4cbc8c82,sixer.beauty,available,1.65,15.75,medium,lo
 8de5e0c7-2dfe-4714-a9f8-7755ac61d151,midget.beauty,available,1.8,19.98,high,low,6,namecheap,,,08/08/2026 14:19
 a5822d0c-f861-413f-9104-8f8c017b8a58,ready.beauty,available,1.99,,high,low,5,name.com,,,
 92b7adda-54c9-4bd2-ad77-24564cece894,judgment.beauty,available,1.65,15.75,high,low,8,namesilo,,,
-376dcd41-2fe1-40d1-9fdc-48aec620094d,torn.beauty,available,1.65,15.75,high,low,4,namesilo,,,
+376dcd41-2fe1-40d1-9fdc-48aec620094d,torn.beauty,available,1.8,21.98,high,low,4,namecheap,,,25/09/2026 16:39
 4a66fdba-6665-47a7-bffd-29f7a1421539,antebellum.beauty,available,1.8,19.98,medium,low,10,namecheap,,,
-9fce9676-cc7f-4d10-93c3-87eb454e5a22,ablative.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+9fce9676-cc7f-4d10-93c3-87eb454e5a22,ablative.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 26864a76-3d23-473a-8626-bec29822701f,ataraxic.beauty,available,1.8,19.98,low,low,8,namecheap,,,07/08/2026 12:49
 2fbb9be0-c941-425c-847d-78b5b231d686,behave.beauty,available,1.99,,high,low,6,name.com,,,
 a0053aa8-48af-494b-b120-fcfc07b7fd0a,conquer.beauty,available,1.65,15.75,high,low,7,namesilo,,,
@@ -747,35 +741,34 @@ ff00280f-fa93-4371-ae82-e4a504d2c95a,tested.beauty,available,1.65,15.75,high,low
 9e0c9849-64a6-4eb2-b7c7-e0819e4fe534,didnt.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 2a75f6bf-e029-42ca-a165-7d82f18fa936,trounce.beauty,available,1.8,19.98,medium,low,7,namecheap,,,09/08/2026 05:27
 b76011b7-12a0-4ee5-86bc-23f58111e4f9,premier.beauty,premium,2500,,high,low,7,name.com,,,
-61a294bf-45e2-4619-9440-c15e018905d0,oddly.beauty,available,1.99,,high,low,5,name.com,,,
+61a294bf-45e2-4619-9440-c15e018905d0,oddly.beauty,available,1.99,,medium,low,5,name.com,,,
 e069d1c4-c5ec-445b-b486-54ab5d1a2ba9,greedy.beauty,available,,,high,low,6,,,,
 e40ae4b9-034d-4a49-b3fa-bfdf0527069f,week.beauty,available,,,high,low,4,,,,
 64414ca9-c67c-4fc3-aa02-f3e7501682b9,sale.beauty,premium,2500,,high,low,4,name.com,,,
 cd04b438-03fc-4fae-9728-3a292fbbe01f,stemless.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 9cc6a0f0-c13f-4575-a56e-2ba693e10fb0,skin.beauty,premium,10000,,high,low,4,name.com,,,
-63bbd50b-29b9-4c96-9a64-bd69ddcf570d,orange.beauty,premium,2500,,high,high,6,name.com,,,
 7279e174-d53f-4cd8-8047-f5cfc72419d2,handle.beauty,available,1.8,21.98,high,low,6,namecheap,,,08/09/2026 13:26
 50be001d-eab7-46b0-895b-f5aebf27eb9d,glancing.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 ddb911b5-551c-445e-a6f1-78c623332075,yeasty.beauty,available,1.8,19.98,medium,low,6,namecheap,,,08/08/2026 19:56
-0308a468-56bf-43e7-9d20-76e5e41818ad,nothing.beauty,premium,2600,2600,high,low,7,namecheap,,,24/09/2026 17:48
+0308a468-56bf-43e7-9d20-76e5e41818ad,nothing.beauty,premium,2660,2660,high,low,7,namesilo,,,25/09/2026 23:27
 26cc482d-8b30-4c24-89dd-972e0cf22ca0,cotton.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 a3db4857-1aa5-4599-a035-cae1e72d229c,jock.beauty,premium,2500,,high,low,4,name.com,,,
 da3142c6-23cf-4083-b5cd-a3e018e9a380,luxembourg.beauty,available,,,high,low,10,,,,
 6ecf2a41-d0c2-4745-ba81-be29775c3f74,andalusian.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 9a5cc00f-c10e-49bb-b63e-a8bea9cd06a8,commodity.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 86d98e30-e270-4eb5-9755-251fb97119be,anachronic.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
-6ef83f6c-edc6-4fc9-9010-5e76760182dd,memorable.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-9d8b76a1-0ec7-4fd3-8657-c64e369d6ce1,soul.beauty,premium,2500,,high,medium,4,name.com,,,
+6ef83f6c-edc6-4fc9-9010-5e76760182dd,memorable.beauty,available,1.8,21.98,high,low,9,namecheap,,,25/09/2026 19:29
 eb0a4a42-e23b-42e9-8f6a-062e85544936,articular.beauty,available,1.8,19.98,medium,low,9,namecheap,,,06/08/2026 23:26
 ccdca957-fbf8-4013-ae57-15333924cdca,flood.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 b499a9f3-9fa8-4cd4-8c79-43c3de649604,frame.beauty,available,,,high,low,5,,,,
 ac340342-ee07-48f7-a598-89d46f1b7be8,third.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 1ee11e8c-d5a3-4706-8692-c4ebfe611d34,dispose.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+90e20e29-5365-45af-91ce-8e212e1055bd,gusto.beauty,resell,,,high,low,5,Dynadot Inc,15/05/2026 13:05,15/05/2027 23:59,25/09/2026 10:42
 dcbcf18a-2da1-4403-9dc9-890a6bf774dd,hanukkah.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 c1e46b2b-80dd-4439-8e95-0ce17ac7f0d2,check.beauty,premium,832,832,high,medium,5,namesilo,,,04/09/2026 07:44
 4e4d9fe5-0631-459f-bc70-18563df7c408,riled.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
 ec82cdd3-ef37-4eac-a41c-d378e5dc6429,junction.beauty,available,1.99,,high,low,8,name.com,,,
-b1bc5ca4-1951-450a-bb06-6c97df5ac84c,net.beauty,premium,812.5,,high,medium,3,name.com,,,
+b1bc5ca4-1951-450a-bb06-6c97df5ac84c,net.beauty,premium,832,832,high,medium,3,namesilo,,,25/09/2026 22:57
 31d10a1f-5715-4b3c-9fc4-9b2a2abcfe2d,people.beauty,premium,2500,,high,medium,6,name.com,,,
 3a522746-9b8c-4fcc-a4cf-3a3f93d9cb4d,kit.beauty,premium,2500,,high,low,3,name.com,,,
 9920b38b-8880-4efb-a9e2-0b2a0de34dc0,soaker.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
@@ -807,7 +800,7 @@ b1793dd1-4660-43ff-86c5-bedb87d7c904,cappuccino.beauty,available,1.65,15.75,high
 129658bc-823c-41c6-8dbe-f5c7daa2ba01,beige.beauty,available,1.8,19.98,high,low,5,namecheap,,,09/08/2026 12:22
 33ce2689-7ff6-4e5e-bcda-3937b6930826,ringed.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 d9e13d54-e5ad-46d6-aecd-7baf7f55e348,devour.beauty,available,1.65,15.75,high,low,6,namesilo,,,
-07c7d393-791b-4440-a0fc-a8b9aed00ff0,djia.beauty,available,1.65,15.75,high,low,4,namesilo,,,
+07c7d393-791b-4440-a0fc-a8b9aed00ff0,djia.beauty,available,1.65,15.75,medium,low,4,namesilo,,,
 53cd6b35-934e-473b-8a76-2a3d8cef0215,bang.beauty,premium,832,832,high,low,4,namesilo,,,24/09/2026 17:40
 57419c9d-9fe4-4dd3-a9f3-a235b95ca58f,quarter.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 1d0fb431-694c-4d78-8c45-e1b3613c684e,albescent.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
@@ -815,12 +808,13 @@ f0169b6c-cfde-4b3e-977c-aab530da61d6,cracking.beauty,available,1.8,19.98,high,lo
 3eb4e951-7361-49bf-a6d5-d6ae40373994,suggest.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 56281930-d3b9-44cb-84f5-09840ab58a32,poverty.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 6adfd8c6-8bc2-4fd0-b589-d8612016d0cf,dentist.beauty,resell,,,high,low,7,Dynadot LLC,16/02/2026 02:45,16/02/2027 23:59,
-110ab553-d5ec-4e6e-a75a-95f22e405dfb,looking.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+110ab553-d5ec-4e6e-a75a-95f22e405dfb,looking.beauty,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 14:19
 4e235925-851e-45d8-a0ed-88bcebfe6b86,men.beauty,premium,812.5,,high,low,3,name.com,,,
 85d53a2b-c481-4b54-ab87-f0b0915af724,seoul.beauty,premium,812.5,,high,low,5,name.com,,,
 25b18e50-cac5-4a10-8b8e-ee6eb17fe19c,pilot.beauty,premium,2500,,high,low,5,name.com,,,
 2a01f6b4-2b15-41df-aad5-f91722f953f6,acerose.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 256330f2-645a-455c-81a3-ba477f59e941,bleak.beauty,available,1.8,19.98,medium,low,5,namecheap,,,08/08/2026 21:02
+4ad0c899-97d7-4628-94a8-db7d8a8e3b6f,version.beauty,resell,,,high,low,7,"Spaceship, Inc.",12/06/2026 20:32,12/06/2027 23:59,25/09/2026 15:12
 34134689-76d9-4dbc-9340-22c60417d8d2,annular.beauty,available,,,medium,low,7,,,,
 9db53d8d-9efb-4955-9100-ad9a060a0c5a,shallow.beauty,available,1.65,15.75,medium,low,7,namesilo,,,
 0c7a8540-afe0-41ad-874b-72c5e5d8e24d,revelation.beauty,available,1.99,,high,low,10,name.com,,,
@@ -829,18 +823,18 @@ d3755dc6-2c54-4e67-a1cd-895244cf4009,cxl.beauty,available,1.65,15.75,high,low,3,
 47843a08-b139-4988-8541-2182672ff871,waiting.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 659f8e97-a5a2-428e-97d2-6f63f43088a4,dining.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 9d6bafcb-8a4b-44f4-8e99-8d9381c40560,resultant.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-3ae68b7e-7293-4a48-92e2-6064334b4bbd,preceding.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+3ae68b7e-7293-4a48-92e2-6064334b4bbd,preceding.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 b25cede2-e59b-46b2-a633-87b0d9c71f25,grandfather.beauty,available,1.65,15.75,high,low,11,namesilo,,,
 1a060680-e028-402f-9384-f6c057bc4131,upwards.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 65497496-75cd-4a98-853c-2a1f7f8f139d,backside.beauty,available,1.8,19.98,medium,low,8,namecheap,,,09/08/2026 10:44
 5aeac89f-9bd2-4128-b889-5a580834720f,dickhead.beauty,available,1.8,19.98,medium,low,8,namecheap,,,08/08/2026 23:34
-6eebe8b4-38c2-4a4e-9243-cebd50c04fc7,inverted.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+6eebe8b4-38c2-4a4e-9243-cebd50c04fc7,inverted.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 35adfbb1-d821-4fe2-b68e-4d7e8bce2419,joy.beauty,premium,2500,,high,medium,3,name.com,,,
 ac31b31a-8be2-41b1-aa63-561f84cc00b8,fig.beauty,available,1.65,15.75,high,low,3,namesilo,,,
-5855f652-7b4c-48fb-bdcb-463779fa9a88,pregnant.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+5855f652-7b4c-48fb-bdcb-463779fa9a88,pregnant.beauty,available,1.99,20.99,high,low,8,name.com,,,25/09/2026 18:23
 3c2f4c10-6ed5-4b73-968c-e06ae5383a7b,pointy.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 c8197d85-19fb-4138-af8e-6acda99a0c7b,spoken.beauty,available,1.65,15.75,high,low,6,namesilo,,,
-e768ef5d-3e65-40af-bcd5-a6b2c07121cc,liked.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+e768ef5d-3e65-40af-bcd5-a6b2c07121cc,liked.beauty,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 13:43
 853568c1-2d44-4410-be16-ae0a93c7717f,satisfactory.beauty,available,1.65,15.75,high,low,12,namesilo,,,
 59e1a5a0-b7b7-4c44-af27-5043d8b12993,era.beauty,resell,,,high,medium,3,"Xiamen ChinaSource Internet Service Co., Ltd",19/10/2025 01:41,19/10/2026 23:59,
 b16253d7-d6c3-4030-b910-71eca9572654,fortune.beauty,premium,2500,,high,low,7,name.com,,,
@@ -857,12 +851,12 @@ a8bb45ec-07bd-459d-a480-8d3213814c71,unemployed.beauty,available,1.65,15.75,medi
 2e9ed03a-d6b4-4e99-a686-35c2818122ab,oxford.beauty,resell,,,high,low,6,Dynadot LLC,02/02/2026 21:13,02/02/2027 23:59,
 60a893a4-3d15-4910-9fe6-26976ac386ff,yuck.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 5f14198e-aab8-49fc-b7c2-52354ea22b2a,premium.beauty,premium,2500,,high,low,7,name.com,,,
-7f2a6356-3653-4db9-ba10-c920ebc67560,monumental.beauty,available,1.65,15.75,high,low,10,namesilo,,,
+7f2a6356-3653-4db9-ba10-c920ebc67560,monumental.beauty,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 17:13
 2ec617e4-431f-46c6-b900-75aa577a103b,absolutely.beauty,available,1.65,15.75,high,low,10,namesilo,,,
 052ed6ad-afc5-40fc-9772-26a51bc71073,word.beauty,available,1.65,15.75,high,low,4,namesilo,,,
 12aec25f-39b3-4b04-806f-67e1faf74586,apsidal.beauty,available,1.8,19.98,medium,low,7,namecheap,,,06/08/2026 10:18
 8e7829c4-af19-4cef-a668-de65efaac7d1,rudimentary.beauty,available,1.65,15.75,high,low,11,namesilo,,,
-fc7c92ed-2729-4043-bb89-dc3d456704f8,extensive.beauty,available,1.8,19.98,high,low,9,namecheap,,,
+fc7c92ed-2729-4043-bb89-dc3d456704f8,extensive.beauty,available,1.8,19.98,medium,low,9,namecheap,,,
 4e1d75be-45e8-46ed-aa82-f465fa46c0e7,spectral.beauty,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 05:38
 bb4ccb16-6f32-45e5-b4ca-1c46380026f1,archean.beauty,available,1.8,19.98,medium,low,7,namecheap,,,06/08/2026 15:05
 89f380cd-bd73-4d60-85b8-045ca5aee74f,guarantee.beauty,available,1.99,,high,low,9,name.com,,,
@@ -878,12 +872,11 @@ bf873f54-90f8-4fda-8053-4c70143f49d8,talent.beauty,premium,2500,,high,medium,6,n
 eee92e81-671f-46bd-a610-27d1dedfc1fc,sunhat.beauty,available,1.99,,high,low,6,name.com,,,
 399c7ad9-955b-42ed-b3e5-33a346d11124,adopted.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 1984d924-5097-4321-ad4f-991526ce3ac2,diminished.beauty,available,1.8,19.98,medium,low,10,namecheap,,,07/08/2026 15:00
-e98582e7-27cb-470c-ba5f-677f1af902f6,lesson.beauty,available,1.99,,high,low,6,name.com,,,
 dde0e057-864e-4601-a48c-cf607c18aa9b,guilt.beauty,available,1.99,,high,low,5,name.com,,,
 5559faff-1265-45ca-9079-a362d912f8eb,solution.beauty,premium,2500,,high,low,8,name.com,,,
-0884faa9-1f53-468f-a085-46baf3d4cbc7,maternal.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+0884faa9-1f53-468f-a085-46baf3d4cbc7,maternal.beauty,available,1.8,21.98,high,low,8,namecheap,,,25/09/2026 18:01
 c36e0288-2088-4ade-9503-890f43ceed99,episode.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-a71f0502-24d3-4f74-a8cf-9c875e7867f8,situated.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+a71f0502-24d3-4f74-a8cf-9c875e7867f8,situated.beauty,available,1.99,17.29,medium,low,8,namesilo,,,25/09/2026 14:16
 ae778224-db01-4e12-bad5-22d08e7c9eea,streetcleaner.beauty,available,1.99,,low,low,14,name.com,,,
 2a3124d6-3c31-4a00-9eae-274037930151,alamo.beauty,available,1.65,15.75,high,medium,5,namesilo,,,
 81617156-5ef9-4dcf-9cf0-e88377645f33,established.beauty,available,1.65,15.75,high,low,11,namesilo,,,
@@ -912,15 +905,14 @@ f7a0915c-5b48-4ab7-a2af-d1742b3a4f3b,clv.beauty,available,1.65,15.75,high,low,3,
 c3de9888-8d65-4589-b1f1-86d414250f1b,stripling.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 652ce889-dc6b-44d1-bb10-c19380a4a746,achromic.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 06b5ff66-84ef-4858-b951-ee504f234af8,lorry.beauty,available,1.99,,high,low,5,name.com,,,
-68b3ae08-58c3-483e-8a50-c1b0246a3ebc,allegoric.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+68b3ae08-58c3-483e-8a50-c1b0246a3ebc,allegoric.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 9fb06313-dab4-4262-bf79-6b6e313afae0,midwinter.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 f39a5b65-0d23-431b-985d-016893c9fc01,discount.beauty,premium,2500,,high,low,8,name.com,,,
 6a5921d7-a2d4-4db7-81df-44761e520d4f,colours.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 13b0c074-c27e-4362-a4dd-e2b0b73f11e5,cockpit.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 4522c31c-8793-422f-9a88-14429e07941c,criticise.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-9d484390-368b-41b5-b1ce-bdd6785f4b8a,speeding.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 343088cb-fb34-4199-968c-6b71ee952f11,printable.beauty,available,1.65,15.75,high,low,9,namesilo,,,
-fb2bf503-de77-45c0-adcd-45dda987840e,abkhazian.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+fb2bf503-de77-45c0-adcd-45dda987840e,abkhazian.beauty,available,1.65,15.75,medium,low,9,namesilo,,,
 7450d442-de9a-4442-9367-e60df93632e3,fin.beauty,resell,,,high,low,3,"Xiamen ChinaSource Internet Service Co., Ltd",01/10/2025 13:31,01/10/2027 23:59,
 8f944574-5de0-4126-b5ea-d89b8f33fa5a,shapeless.beauty,available,1.8,19.98,medium,low,9,namecheap,,,
 e616e17e-beb5-495a-86de-0f54966dc3e2,llp.beauty,premium,2500,,high,low,3,name.com,,,
@@ -939,6 +931,7 @@ ebf3cdb7-8844-45a4-aeee-ca7c52ed7ce3,barbecue.beauty,available,1.65,15.75,high,l
 9a049209-d37e-46f5-91f9-59eaa7f78de1,dilute.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 60edb220-2b9a-4c93-9f76-8a7440fd5b75,session.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 da24809a-5a98-4ffe-943c-67dc03d11b54,adviser.beauty,available,1.65,15.75,high,low,7,namesilo,,,
+3e4f99a7-ed17-460c-baac-8184c27f712f,domain.beauty,premium,11040,11040,high,medium,6,namesilo,,,25/09/2026 14:42
 7928c754-6602-4bcb-a4eb-0a1cb0e65ab9,macbook.beauty,premium,2500,,high,high,7,name.com,,,
 5c0e827a-45f9-4019-b938-7eeb8817c644,astylar.beauty,available,1.8,19.98,medium,low,7,namecheap,,,07/08/2026 10:15
 e3bb5e57-0c9e-4281-829b-8239ff60631a,took.beauty,available,1.65,15.75,medium,low,4,namesilo,,,
@@ -964,19 +957,19 @@ a9612584-ce54-477f-85c0-46528dda07ce,ilx.beauty,available,1.65,15.75,medium,low,
 380d80ce-2831-4d78-b78b-8b640b3ccfaf,hedge.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 00bc414e-705a-464f-be4d-a0007a9cfd62,tahoe.beauty,available,1.65,15.75,high,low,5,namesilo,,,
 11150080-1b9b-49c7-8c8b-068021c3b2a6,anagram.beauty,available,1.65,15.75,high,low,7,namesilo,,,
-67594039-eb9e-4f69-a01c-fe01e665ef18,mechanic.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+67594039-eb9e-4f69-a01c-fe01e665ef18,mechanic.beauty,available,1.99,17.29,high,low,8,namesilo,,,25/09/2026 18:40
 7e477f1c-af2b-4b3e-a131-71c55839008d,halo.beauty,premium,2500,,high,medium,4,name.com,,,
 e798ab9c-e551-49ae-8cea-80bbd39c5d74,garlic.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 cade5576-39b5-4b41-aced-559811022e3e,eighty.beauty,available,1.8,19.98,high,low,6,namecheap,,,
 ef976640-3bab-4062-9d4f-0932bf9edb34,adhesive.beauty,available,1.65,15.75,high,low,8,namesilo,,,
 5b9a7c43-5551-4eda-9906-f1d0ef74a7a4,coffee.beauty,premium,812.5,,high,medium,6,name.com,,,
-a8c84183-74ca-4e1f-86d1-df99899ba499,punter.beauty,available,1.65,15.75,high,low,6,namesilo,,,
+a8c84183-74ca-4e1f-86d1-df99899ba499,punter.beauty,available,1.65,15.75,medium,low,6,namesilo,,,
 64c27acc-f58b-42ad-bd88-b1776ac00d4e,decide.beauty,available,1.99,,high,low,6,name.com,,,
 a5649e8b-d14b-43fb-907e-512f81f21f4b,alligator.beauty,available,1.65,15.75,high,low,9,namesilo,,,
 01b527a3-0183-41ab-a31a-5a3778512448,grassroots.beauty,available,1.8,19.98,high,low,11,namecheap,,,20/08/2026 18:16
 0efda7e8-5332-4fbe-a89f-98fc5c4e7ce4,trader.beauty,available,1.65,15.75,high,low,6,namesilo,,,
 e65f8a9e-2c6c-4db2-8fb0-eca739b915d7,amnesiac.beauty,available,1.8,19.98,medium,low,8,namecheap,,,
-7e1dd983-fbf3-4e54-9ade-99e2189266ee,freaking.beauty,available,1.65,15.75,high,low,8,namesilo,,,
+7e1dd983-fbf3-4e54-9ade-99e2189266ee,freaking.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
 b10e596d-c483-4555-a87b-2018c7ae7583,appoint.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 189672a9-659b-48b5-a235-a907787ed341,speaker.beauty,available,1.65,15.75,high,low,7,namesilo,,,
 3fc0b3bc-e9d1-4abf-9232-7ac06b98ca89,eolotropic.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
@@ -996,6 +989,13 @@ aeb60c07-14af-43ab-bfcf-97d12e9b884e,campaigning.beauty,available,1.65,15.75,hig
 3e965f24-e826-44ca-8751-d8a8501cb15d,laura.beauty,premium,812.5,,high,low,5,name.com,,,
 380cb025-33be-4fa1-82f2-d00cebc2e40b,quaternary.beauty,available,1.65,15.75,medium,low,10,namesilo,,,
 8e2375bf-e785-4e12-8426-90440f65ba03,prison.beauty,available,1.65,15.75,high,low,6,namesilo,,,
-bd6d7985-bd5a-43d3-b7a5-3bbddfb7e403,kilogramme.beauty,available,1.99,,high,low,10,name.com,,,
+bd6d7985-bd5a-43d3-b7a5-3bbddfb7e403,kilogramme.beauty,available,1.99,,medium,low,10,name.com,,,
 c9486d6d-207e-45e9-8113-6c86803cf657,unpaid.beauty,available,1.65,15.75,high,low,6,namesilo,,,
-a48da57c-e18c-412b-a638-acc5b249fb95,pesky.beauty,available,1.65,15.75,high,low,5,namesilo,,,
+a48da57c-e18c-412b-a638-acc5b249fb95,pesky.beauty,available,1.65,15.75,medium,low,5,namesilo,,,
+e0860517-2176-4240-8297-de5c308dcdaa,acrobatic.beauty,available,1.8,19.98,high,low,9,namecheap,,,
+4ca1fcf7-a975-4c6d-a736-846026ddd744,appointive.beauty,available,1.8,19.98,medium,low,10,namecheap,,,06/08/2026 07:16
+bfddd05e-ba06-4930-87f1-41b60061f069,alcohol.beauty,resell,,,high,low,7,Dynadot Inc,21/01/2026 08:15,21/01/2027 23:59,25/09/2026 10:44
+675722d6-9a09-478d-9176-07ead1daaffc,impressed.beauty,available,1.65,15.75,high,low,9,namesilo,,,
+62e775a9-b1bc-4972-b64a-06d45cd661f8,launch.beauty,resell,,,high,medium,6,Dynadot Inc,08/08/2026 17:13,08/08/2027 23:59,25/09/2026 22:14
+38fa4291-6f53-48b8-a14a-cde64b97d319,race.beauty,premium,812.5,,high,low,4,name.com,,,
+818124d8-9f03-46a2-8626-3aaf82e38a0d,lamp.beauty,available,1.99,,high,low,4,name.com,,,
