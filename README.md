@@ -1,10 +1,10 @@
-# Available .BEAUTY One-Word Domains (14,103)
+# Available .BEAUTY One-Word Domains (21,773)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C103%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C773%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .beauty one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,103 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,773 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,103 domains · **Median ask:** $142.75 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 21,773 domains · **Median ask:** $155.99 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/beauty`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| btw.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| motion.beauty | resell    | $665.69   | —             | high           | low    | 6      | Dynadot LLC                                  |
-| and.beauty    | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
-| clv.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| ass.beauty    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
-| ava.beauty    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| clx.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| era.beauty    | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| hub.beauty    | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
-| cxl.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| fin.beauty    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| job.beauty    | premium   | $2,500    | —             | high           | low    | 3      | name.com                                     |
-| egg.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| lol.beauty    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
-| joy.beauty    | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
-| eid.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| asia.beauty   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| kit.beauty    | premium   | $2,500    | —             | high           | low    | 3      | name.com                                     |
-| fig.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo                                     |
-| diva.beauty   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| arp.beauty    | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
+| charts.beauty | resell    | $1.65     | $15.75        | high           | low    | 6      | Spaceship, Inc. |
+| hub.beauty    | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
+| asp.beauty    | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
+| ark.beauty    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| hui.beauty    | premium   | $845      | $845          | high           | low    | 3      | namecheap       |
+| bjs.beauty    | available | $1.80     | $21.98        | high           | low    | 3      | namecheap       |
+| neo.beauty    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| kid.beauty    | premium   | $2,660    | $2,660        | high           | low    | 3      | namesilo        |
+| bus.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| claw.beauty   | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc. |
+| lab.beauty    | premium   | $10,400   | $10,400       | high           | medium | 3      | namecheap       |
+| cod.beauty    | available | $1.80     | $21.98        | high           | low    | 3      | namecheap       |
+| high.beauty   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| llc.beauty    | premium   | $2,660    | $2,660        | high           | low    | 3      | namesilo        |
+| cpi.beauty    | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
+| just.beauty   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc. |
+| org.beauty    | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
+| err.beauty    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| tide.beauty   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,103 live domains                        |
+| 1,000-row public sample | 21,773 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 9 high-demand names under $2,500           |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEAUTY One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
